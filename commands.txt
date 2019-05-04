@@ -1,0 +1,88 @@
+    subprocess.check_output('ffmpeg -i ' + local_filename + ' ac 1 -ar 16000 ' + label + '.wav') 
+
+ffmpeg -i brene-brown.mp3 ac 1 -ar 16000 brene-brown.wav
+ffmpeg -i brene-brown.mp3 -acodec pcm_s16le -ac 1 -ar 16000 brene-brown.wav
+
+
+
+gcloud ml speech recognize-long-running \
+'gs://citeit_speech_text/examples/uncivil/the-ring/uncivil-the-ring.wav' \
+--include-word-time-offsets \
+--language-code='en-US' \
+--async
+
+764505178761120367
+gcloud ml speech operations describe 764505178761120367
+
+
+
+
+gcloud ml speech recognize-long-running \
+'gs://citeit_speech_text/examples/on-being-with-krista-tippett/2018-02-02-brené-brown/brene-brown.wav' \
+--include-word-time-offsets \
+--language-code='en-US' \
+--async
+
+6672143944756214819
+gcloud ml speech operations describe 6672143944756214819
+
+
+series_path
+episode_path
+episode
+audio_url
+
+
+sudo apt-get update
+sudo apt-get install python3-pip
+pip3 install --upgrade google-auth
+
+from google.auth import compute_engine
+from google.oauth2 import service_account
+credentials = service_account.Credentials.from_service_account_file('/home/timlangeman/.google-credentials.json')
+from google.auth.transport.requests import AuthorizedSession
+
+
+pip install --upgrade google-cloud-storage
+
+
+# Imports the Google Cloud client library
+from google.cloud import storage
+
+# Instantiates a client
+storage_client = storage.Client()
+
+# The name for the new bucket
+project = "My First Project"
+bucket_name = 'citeit_speech_text'
+file_name = '127-the-crime-machine-part-1.mp3'
+destination_blob_name = file_name
+
+
+
+bucket = storage_client.get_bucket(bucket_name)
+blob = bucket.blob(destination_blob_name)
+
+blob.upload_from_filename(source_file_name)
+
+def upload_blob(bucket_name, source_file_name, destination_blob_name):
+    """Uploads a file to the bucket."""
+    storage_client = storage.Client()
+    bucket = storage_client.get_bucket(bucket_name)
+    blob = bucket.blob(destination_blob_name)
+
+    blob.upload_from_filename(source_file_name)
+
+    print('File {} uploaded to {}.'.format(
+        source_file_name,
+        destination_blob_name))
+
+
+
+from google.cloud.storage import Blob
+
+client = storage.Client(project=project)
+bucket = client.get_bucket(bucket_name)
+blob = Blob(destination_blob_name, bucket)
+with open(file_name, "rb") as my_file:
+    blob.upload_from_file(my_file)
