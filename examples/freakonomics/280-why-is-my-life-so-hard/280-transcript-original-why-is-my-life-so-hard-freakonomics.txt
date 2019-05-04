@@ -1,0 +1,233 @@
+[MUSIC: Eric Tingstad, “Skamania” (from Mississippi)]
+
+Hey there, it’s Stephen Dubner. Freakonomics Radio is produced by WNYC, a public radio station here in New York City. As you may know, the public radio business model is reliant on listener donations. You’re a listener. So… how about you make a donation? It’s quite simple. Click the “donate” button on this website. Or text the word “freak” to the number 698-66. If you donate before April 16th , you’ll be automatically entered to win… an all-expenses-paid trip for two to New York City, and I’ll take you out to lunch. Wherever you want to go. Tea at the Plaza? You want the omakase at my favorite Japanese restaurant? I even know the vegan joints — so wherever you want to go. You can also have a tour of WNYC. You don’t have to donate to enter, but we really hope you will. WNYC relies on your donation to help pay all the costs associated with making this show – producers, studio space, music licensing, on and on. Consider signing up to donate just $5 a month – that’ll really help out. Your donation is tax-deductible — and there’s some good swag too: Freakonomics Radio mugs, t-shirts, even Freakonomics books if you know anybody who still reads books. Again, just click the “donate” button on this site, or text the word “freak” to 698-66. And I really look forward to seeing one of you – along with your significant other or friend or mother or whatever – for lunch in New York. Ciao!
+
+*      *      *
+
+Tom GILOVICH: We wanted to try to get a handle on how or why it’s so easy for people to feel put upon, to feel resentful, to feel that life has made things harder for them than it has for other people.
+
+Shai DAVIDAI: Basically what we’re trying to answer is “Why do people think that life is so hard for them”?
+
+That’s Tom Gilovich…
+
+GILOVICH: I’m a professor of psychology at Cornell University and I study how people make judgments and decisions in their everyday and professional lives.
+
+And Shai Davidai…
+
+DAVIDAI: Or in Hebrew, Shai Davidai. And I’m an assistant professor of psychology at The New School for Social Research .
+
+[MUSIC: Muzio Clementi, “Sonata In La Maggiore”]
+
+Gilovich and Davidai recently published a paper called “The Headwinds/ Tailwinds Asymmetry.” In addition to being a clever piece of experimental research, it has the amazing capacity to make you feel both much better about your life – and much worse.
+
+GILOVICH: Yeah, in a nutshell that is the paper.
+
+It explains why you think your parents were tougher on you than your siblings.
+
+DAVIDAI: So my older sister, she had all the freedom because she was older, she got to go out and do things. But I got punished.
+
+It explains why rooting for your sports team can be so painful…
+
+DAVIDAI: There is a tendency to feel like the team that you favor has a harder time than other teams.
+
+It explains why Democrats are convinced the deck is stacked against them – and why Republicans are convinced of the same thing.
+
+GILOVICH: They really are.
+
+And most important, it explains why most of us aren’t nearly as grateful as we ought to be.
+
+GILOVICH How did I get even to be alive? How did I get to be alive in a world that has the beauty that it does and so on.
+
+Today on Freakonomics Radio: how we build resentments; how those resentments can curdle our well-being; and how we would all benefit from feeling some more gratitude.
+
+*      *      *
+
+So what are you grateful for today?
+
+DAVIDAI: I’m grateful for Tom.
+
+Shai Davidai again.
+
+DAVIDAI: I’m not joking. I know. I had the best graduate-school adviser, mentor, and friend in Tom — and the fact that we could sit there for hours and just talk about our ideas, and then go and see if those ideas are real. Run experiments. And then talk about our results — that was just an amazing experience.
+
+For what it’s worth, the feeling is mutual.
+
+GILOVICH: Shai is just terrific. And I’m just convinced he’s going to have a great career.
+
+Davidai, 33 years old, got his Ph.D. in psychology just a couple years ago. If you’re going to pick a mentor in the field, you couldn’t do much better than Tom Gilovich.
+
+GILOVICH: You’re too kind.
+
+Many of the topics we’ve discussed on this program over the years, especially those relating to behavioral economics, owe a debt to Gilovich’s research.
+
+[MUSIC: Franz Joseph Hadyn, “III – Presto Piano Concerto No. 3 in F Major”]
+
+DUBNER: I’d love to read off just a quick list of phenomena that you’re known for studying, in some cases, pioneering. And maybe have you just give us a very brief description of what the thing is and what it means. So, number one: the “spotlight effect.”
+
+GILOVICH: Yeah, the spotlight effect refers to a feeling most of us can relate to. It’s the feeling that when we’re doing something that other people are really attending to what we’re doing, that the social spotlight is on us. And it turns out that other people are paying much less attention to us than we think.
+
+DUBNER: Right. The “hot-hand notion” or maybe the “hot-hand fallacy.”
+
+GILOVICH: Well, everyone who’s ever played the game of basketball knows you get this feeling where the game seems to slow down. It becomes easier, or you almost don’t even have to aim that carefully. The ball’s going to go in. It’s one of the most compelling feelings that you can have. And it turns out if you statistically analyze people’s shots  — whether it’s professional games, college basketball players shooting in a gym, although the feeling exists when you make several shots in a row — you will feel hot. That feeling very surprisingly doesn’t predict how you’re going to do in the next shot or the next several shots — the distribution of hits and misses in the game of basketball looks just like the distribution of heads and tails when you’re flipping a coin. although of course, not every player shoots 50%. Very few of them do.
+
+DUBNER: Talk for just a minute about your work in happiness or hedonic studies.
+
+GILOVICH: Yeah, so many psychologists who study judgment decision making you have an interest in well-being or happiness as well. Because after all we try to make sound judgments and decisions to advance our physical and psychological well-being. So the question just asks itself: how good a job do we do of that and how can we advance our well-being more? And in my particular case, that has involved studying such emotions as regret, decisions gone awry, gratitude — either on the part of decisions that have worked out well or just events that have happened to a person that you feel grateful for.
+
+DUBNER: Great. Briefly describe your research into “bias blind spot.”
+
+GILOVICH: Yeah the biased blind spot refers to the fact that everybody knows that people are biased, but it’s much easier to see the bias in other people than in oneself.
+
+DUBNER: And one last one. This one, it strikes me, plays into today’s conversation about headwinds and tailwinds:“self-handicapping.” Describe that for me briefly.
+
+GILOVICH: Yeah, self-handicapping is a familiar idea, particularly if we go back to the world of sports, where, before a contest, people claim a certain obstacle in their favorite team’s path. “Maybe we’ll win, but we’ve got a key player out.” And that’s setting everyone up for an explanation if you should lose. Students often do this too. They might study as hard as they can and pretend that they haven’t studied so if they bomb the exam, people don’t think they’re challenged. And if they should succeed, all the better. It’s a more glorious victory if you’ve overcome an obstacle. So people will put these obstacles in their path to manage other people’s and their own attributions or explanations for why they succeeded or failed.
+
+Why people succeed and fail – an important topic, plainly, but a complicated one, especially for academic psychologists like Gilovich and Davidai. It’s a huge question, a messy question, with a ton of variables, hard to measure. But people’s attributions or explanations for why they succeeded or failed… That they could explore.
+
+GILOVICH: We wanted to try to get a handle on how or why it’s so easy for people to feel that life has made things harder for them than it has for other people and at the same time, try to understand why it might be hard for people to be as grateful as perhaps we should.
+
+Which gets us to their paper, “The Headwinds/ Tailwinds Asymmetry.”
+
+GILOVICH: The idea should be familiar to anyone who cycles or runs for exercise. Sometimes you’re running or cycling into the wind, and it’s not pleasant. You’re aware of it the whole time. It’s retarding your progress and you can’t wait until the course changes so that you get the wind at your back. And when that happens you’re grateful for about a minute. And very quickly, you no longer notice the wind at your back that’s helping push you along. And what’s true when it comes to running or cycling is true of life generally.
+
+DUBNER: You argue that gratitude has been shown to be good for us. What’s the evidence for that?
+
+GILOVICH: A lot of people have done work on gratitude over the last 20 years where they’ll do things like have people keep a gratitude diary, where every day or every week you write down what you have to be grateful for.
+
+DAVIDAI: Most people do it at the evening just before they go to sleep. And you do that for a few days in a row, and you just see that people are happier or more satisfied with their lives.
+
+GILOVICH: Or you have assignments to write a letter to a person every week expressing gratitude for something they’ve done for you.
+
+DAVIDAI: And giving it to someone face to face, so not just emailing them, but actually sitting there having them read it, and then having a conversation about it.
+
+GILOVICH: And when people do that they sleep better. They go to the doctor less often.
+
+DAVIDAI: They also show less depressive symptoms.
+
+GILOVICH: So there are all sorts of direct benefits to the grateful person.
+
+DAVIDAI: It’s just amazing how many positive correlates there to gratitude .
+
+But when you ask people what they’re grateful for…
+
+DAVIDAI: When you ask people what are you grateful for, the prototypical answer is: my parents, my family, my friends, my loved ones. What they’re missing is all these invisibles.
+
+What are these “invisibles”?
+
+GILOVICH: Oh, there’s so many.
+
+DAVIDAI: The fact that I had opportunities for education.
+
+GILOVICH: How did I get even to be alive?
+
+DAVIDAI: The fact that we can sit here and talk. No one is monitoring what we’re talking about. That is something that not everyone has. That is something that we should feel grateful for.
+
+GILOVICH: The comedian Louis C.K. has a brilliant bit on this. It’s called “ Everything is amazing and no one cares .”
+
+DAVIDAI: Child mortality has declined dramatically in the past hundred years.
+
+GILOVICH: And he talks about example after example of some new technology comes in, you’re all excited and then ten minutes later it’s not a luxury, it’s a necessity.
+
+LOUIS C.K. (clip from Conan O’Brien’s show): I was on an airplane and there was internet, high-speed internet on the airplane. That’s the newest thing that I know exists. And I’m sitting on the plane and they go, “Open up your laptop, you can go on the internet.” And it’s fast and I’m watching YouTube clips. I’m on an airplane. Then it breaks down and they apologize. The internet’s not working. The guy next to me goes, “This is bullshit.” Like, how quickly the world owes him something he knew existed only ten seconds ago.
+
+GILOVICH: Psychologists refer to this as the hedonic treadmill. You run really hard to get something. The thing that you get, that you’re aiming for, feels good when you’ve got it. But then you adapt to it and you have to run ever faster to get more and more.
+
+But here’s a question: if gratitude is such a positive emotion…
+
+DAVIDAI: It’s just amazing how many positive correlates are there to gratitude .
+
+Then you’d think we’d all be chasing after it, hard, all the time. So why aren’t we? Gilovich and Davidai suspect it has to do with what psychologists call the availability bias. Meaning: we tend to overweight the experiences that are readily available in our memories. Which, Gilovich and Davidai argue, are more likely to be headwinds than tailwinds.
+
+GILOVICH: We have to pay attention to the barriers in front of us because we have to get over them, or get through them in some way. We have to overcome them. We don’t have to pay attention to those things that are boosting us along. We can just be boosted along. And that fundamental asymmetry in attention is the headwinds/tailwind asymmetry.
+
+Meaning that it’s easier to summon emotions that are the opposite of gratitude. In fact, they’re the enemies of gratitude.
+
+GILOVICH: And one of them is habituation or adaptation: we think if some good fortune befell us we’d be happy, we’d be grateful, we’d be happy forever. We wouldn’t sweat the small stuff anymore. And that’s true for a while. But then we adapt to it. And all of a sudden we’re sweating the small stuff again.
+
+But that’s hardly the only enemy of gratitude.
+
+DAVIDAI: The big ones are greed and envy.
+
+Okay, first greed:
+
+DAVIDAI: Inherent in greed is the idea that this is not enough. It’s not a means to an end. Having is the end. When you experience greed and when you’re just focusing on this accumulation, it’s hard for you to take stock of what you already have.
+
+And… envy:
+
+DAVIDAI: Which is when all you’re focused on is whatever people have, especially when it’s malicious envy not benign envy. When you’re really focusing on, “I don’t want them to have that. They didn’t deserve this. It’s unfair.” When you experience that, it’s hard to stop and feel grateful.
+
+So that’s the theory at least. Once Tom Gilovich and Shai Davidai identified it, all they had to do was find evidence that it’s actually true.
+
+DAVIDAI: If this headwinds/tailwinds asymmetry is a real psychological phenomenon, we should find it in very different contexts and domains.
+
+[MUSIC: Leo Islo, “Modern Fiction” (from Modern Fiction)]
+
+Coming up on Freakonomics Radio : evidence of headwinds in family matters, sports, and politics. And how feeling the headwinds might persuade you that your country is in worse shape than it is, and that you need a new leader who will really shake things up:
+
+GILOVICH: A willingness to do that, I think, is failing to appreciate all the things that make our lives really the envy of the rest of the world.
+
+*      *      *
+
+The academic psychologists Tom Gilovich and Shai Davidai wanted to know whether people put more emphasis on the headwinds they face – the barriers and obstacles and difficulties – than their tailwinds — like a free society and good health and so on. This meant trying to measure people’s perception of headwinds and tailwinds in a variety of domains.
+
+GILOVICH: So we did studies to see how it affects siblings’ views of whether they had it harder than their brother or sister, or easier. Whether Republicans and Democrats think that this strange thing known as the electoral college favors their side or hurts their side. Whether sports fans think that the schedule is fair. And then my favorite example comes from my own field of academia in psychology. If you talk to graduate students in different subdisciplines, each subdiscipline will think the other ones have it easier than they do. Developmental psychologists will say, “Man, I wish I was a social psychology person. It would so much easier to run college students than it is to run a baby.” But then you talk to the social psychologist. They go, “Oh the developmentalists have it so easy. They have sample sizes of like six to eight. We now have to run 100 in each condition.” And every group bemoans its own difficult fate.
+
+Okay, we’ll start with the sibling study.
+
+DAVIDAI: The one thing that we kept coming back to is this idea that siblings always feel like the other one had it easier.
+
+For this study, Davidai and Gilovich recruited people who had only one sibling; no twins allowed.
+
+DAVIDAI: And we asked them to think back to when they were younger, both living at the same house, about how their parents treated them versus their brother or sister. Who got more praise? Who got more encouraged to do things? Who had more freedom to go out and party? And in contrast, who got punished more? Who got lectured more? And what we found was that siblings thought the other one had it easier and that they had it harder.
+
+In other words, headwinds for everybody. Another study looked at how self-identified Democrats and Republicans think their party makes out in terms of raising campaign money, and getting Congress to cooperate, and winning the Electoral College. As with the siblings, people on either side of the political aisle felt the other side had all the advantages. Would the same effect hold true among sports fans?
+
+DAVIDAI: So what we did is we went on Reddit, on the NFL, a subsection of Reddit, right after the 2014 schedule was published. And we just wanted to see how people are reacting.
+
+Specifically, they wanted to see how fans perceived their team’s upcoming schedule.
+
+GILOVICH: Do I tend to think that my team had it easier or harder? The headwinds/tailwinds asymmetry predicts that what would jump off the page of the schedule are all the hard games your team has to play.
+
+DAVIDAI: And what we found was that most of the comments were about how difficult it is for me.
+
+Finally, Gilovich and Davidai looked at some of their academic brethren to see if they too primarily feel the headwinds. They looked at accounting professors.
+
+GILOVICH: They can, like in many disciplines, be divided into experimental and non-experimental accountants.
+
+What’s an experimental accountant?
+
+DAVIDAI: What they do is study the human aspects and the human behavior of accounting. So things like auditing, things like, when do people lie? And when can we detect lying? Stuff like that.
+
+Gilovich and Davidai surveyed roughly 100 experimental and non-experimental accountants.
+
+GILOVICH: And we asked each of them how easy is it for experimental and non-experimental accountants to get their papers published, to get grants, to get tenure, and so on. And each of them thought that it was easier for the other group than it was for them to have these good things happen. But to this study we added a twist. After having them get themselves in touch with their headwinds more than their tailwinds, we then asked them about a variety of what you might call questionable research practices. Is it okay to take money from a questionable source if the research itself is okay?
+
+DAVIDAI: Is it okay to publish the same paper twice in two very different journals?
+
+GILOVICH: Can you put your name on a paper as co-author if you really didn’t do anything?
+
+DAVIDAI: What we wanted to see is, does seeing your field and yourself as disadvantaged, does that give you more moral flexibility? Does that allow you, in your own mind, to maybe cut some corners?
+
+GILOVICH: And what you find is that if people have just thought about who has it harder or easier — them, or other people in their discipline — they are more accepting of these questionable research practices. So when you feel like, “No, the deck is stacked against me,” it appears that people want to make up for that. And they’re willing to kind of bend the rules to do that.
+
+DAVIDAI: And obviously that has a lot of implications for real life.
+
+GILOVICH: It encourages feeling resentful and unappreciative. And that’s a psychological state that where we’re not at our best.
+
+DUBNER: I’m curious how the idea of headwinds and tailwinds plays into the conversation these days about privilege versus discrimination or lack of opportunity. So there’s a lot of conversation about white and/or male privilege. Perhaps that’s an example of tailwinds that aren’t properly appreciated. And on the other side, some claims of discrimination or lack of opportunity, perhaps being an example of headwinds being exaggerated. I’m curious what your thoughts are on that.
+
+GILOVICH: What we’ve shown in the lab is directly applicable to some of the discussions going on in the country right now. There’s this term that “there’s a war on white males these days,” white Christian men, and channeled through the headwinds/tailwinds asymmetry, you could see why that group would think that. That is to say, the influence they’ve had has decreased, and of course that’s the focus of their attention. That decrease. At the same time, if you look at it from the outside, what you see is an enormous advantage that had existed for hundreds of years being reduced just a little bit. And from an outside perspective, it doesn’t look like at all like a war, it looks like just a little bit of rebalancing and we even need to rebalance some more.
+
+DUBNER: What about on the flip side? What about if I feel aggrieved, if I feel I am facing way more headwinds than the other people around me  — whether it’s in the labor markets, or in academia or whatever — do you see that misperception being a significant barrier to progress for me, again individually or societally?
+
+GILOVICH: I do. Because it feeds resentment, which doesn’t make us our best selves. Prevents us from thinking most rationally and acting most productively. Each community is going to think that the other one has it easier than they do when in fact they don’t. That’s the misperception. And if they think that the other group has it easier, that’s tempting. First of all, it’s going to make them less likely to want to do good things for people in the other community and it might even encourage them to do some questionable things too in their minds even though the slate is already even. It’s that misperception that we’re particularly interested in.
+
+DUBNER: All right. Let me ask you a related question. What do you know or what does the field know about the characteristics of people who don’t overweight headwinds?
+
+GILOVICH: That’s a great question. That’s something that Shai and I are working on right now. And it’s not that we’re never aware of our tailwinds, and they just don’t come up, or we are less aware of them than our headwinds. And so we’ve asked people, we explain the headwinds/tailwinds asymmetry, and we ask them what are some of the headwinds you’ve suffered from, and the tailwinds you benefited from? And we get some noticeable differences. That is, the headwinds are quite a mix of animate things — other people who are getting in my way — and inanimate things — bureaucracies, procedures, structural things. But when you look at the tailwinds people are aware of, they tend to cite way disproportionately the intervention of other people. When other people do things for us it’s a charming result in a way that registers and we’re grateful. If you tell people how lucky they are, they don’t like that. They guard against it. They’re like, “Wait. What are you? You’re diminishing my achievements.” But if you ask people, “How has luck played a role in your life?” People can get in touch with their tailwinds, or how lucky they are. So it really suggests an ask-don’t-tell policy when it comes to either luck or particular type of tailwind, or all the other tailwinds.
+
+DUBNER: So Tom, let me ask you this. Let’s say I’ve heard you discussing this and I find you an incredibly even-handed and credible assessor of these phenomena and that I believe you, I believe your research. What can I do to appreciate the reality of my tailwinds and to not overweight, not get resentful and therefore counterproductive as a result of my headwinds?
+
+GILOVICH: Right, scientists are fond of saying, and I do believe it, that knowledge sets you free, just knowing about this will be helpful. So I want to put that out first and foremost. But the more specific version of the knowledge tends to be most helpful. You’ve had guests on before that have talked about confirmation bias. One of our most powerful sources of distortion in our judgments when we’re testing, we’re trying to evaluate something we look for evidence that it’s true, because after all if it were true there should be evidence for it. So we look for it. Very sensible thing to do, but we also have to look for evidence against. And so the general recommendation there is, “All right. Don’t fall prey to the confirmation bias.” “Try to consider the opposite,” is the way that psychologists put it. That’s the evidence for this. What’s the evidence against it? And that’s good advice, but it’s a little general. It would be nice to make it more concrete. And so psychologists have developed some more concrete recommendations. One is to — and I really like this one — do what’s called a pre-mortem. That is to say if you believe that a certain policy is the right one, you tend to over recruit evidence in favor of that belief. You try the policy. Rather than telling people consider the opposite. You say, “Okay, imagine that you tried the policy, and after a year, it crashed and burned.” And you’d be doing a post-mortem. Figure out what went wrong. Do that in advance, do that right now. Imagine it worked out badly, and then explain it to yourself. That is a more specific recommendation that I think people can really sink their teeth into. Or have a devil’s advocate to argue against you. That’s specific, that’s doable. And so it’s more helpful. And so with respect to the headwinds tailwinds asymmetry I think of it in part as a slightly more specific version of what the gratitude researchers have been asking people to do, which is write down or think about all that you have to be grateful for. That’s good advice, but it can be hard to do or at least hard to do consistently. If you start to run out of gas in doing that, ask yourself a slightly different question, which is, “What are my tailwinds?” Not, “What do I have to be grateful for?” But, “What are the ways in which I’m boosted along, the invisible things that make my life easier? Let me focus on those.” And different things might come up.
+
+As it is written: “May the road rise up to meet you. May the wind always be at your back.” To which I guess we should add: “May you appreciate the wind when it’s at your back – and when it’s not, deal with it a little less resentfully.” Thanks to Tom Gilovich of Cornell and Shai Davidai of the New School for Social Research for teaching us about the headwinds/tailwinds asymmetry today.
