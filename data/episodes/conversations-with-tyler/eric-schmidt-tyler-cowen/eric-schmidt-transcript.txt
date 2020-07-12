@@ -1,0 +1,539 @@
+TYLER COWEN: It’s an honor to be with you. Eric. Let’s try doing a whirlwind tour of your career and life. Between the ages 10 and 20, what did you have as a formative intellectual experience that helped make you into Eric Schmidt?
+
+
+ERIC SCHMIDT: I wanted to be an astronaut as all the boys of my age did because this was during the moon-landing period. My father, who you are the natural successor to, I must say, as an economist, took us to Italy, and I grew up in Italy as a boy. And this is at a time when people didn’t travel the way they do today, and so it was quite exotic to grow up Italian, and I think that really changed me.
+
+As an American, I’ve always thought Americans were very, very locally focused, and even today in the world you all live in, we’re still too locally focused and not globally focused.
+
+COWEN: How did it influence you having a father who was a famous economist? He wrote on balance of payments crises. What did you draw from him? Did that have a role in using so much economics in Google?
+
+SCHMIDT: Well, what’s interesting is, I asked my father, “If you’re such a good economist, why are we not rich?”
+
+[laughter]
+
+SCHMIDT: And his answer is lost to history but . . .
+
+COWEN: Give it time, right?
+
+[laughter]
+
+SCHMIDT: But I have a lot of respect for economics because people really do study these platforms that people build on. My personal success, I think, has largely been because I’m interested in network economics and network platforms. Pretty much everything you all build on is essentially a platform. Platforms have unique structures and scales, and they, in fact, follow economics laws.
+
+COWEN: Now I learned through Google, of all sources, that in college, you were at first a major in architecture. What was your thinking behind that?
+
+SCHMIDT: Well, I was a terrible architect, but I turned out to be a pretty good engineer, and this was at a time when computer science didn’t exist. At Princeton, I walked in, and I said, “Look, I think I’d rather do computers.” Well, they talked to me for a bit, and they put me in their advanced class, and then that’s sort of how it happened.
+
+So whatever you think you’re going to do, you may do something very different. I just naturally liked computer science. I graduated with a degree in electrical engineering, but I did none of the EE classes, so never asked me to repair anything.
+
+[laughter]
+
+COWEN: Now early on, you were an intern at Bell Labs, and also PARC, which belonged to Xerox, and I think of those two institutions as stemming from earlier glory years of American science.
+
+Is it fair to think of your career as in some sense, you’re the person who spans those two eras, the Bell Labs-PARC era of doing things, and then the tech era of manipulating information, and that your ability to bring expertise from those two areas together is what has made you a unique figure? Is that a fair assessment of how you fit into the picture?
+
+SCHMIDT: It’s very flattering. I would say I’m defined by luck, and I think almost anyone who’s successful has to start by saying they were lucky — lucky of birth, lucky of having intellectual and intelligent family home life, upbringing, global upbringing, etcetera.
+
+I was lucky because when I worked at Bell Labs, I wrote a program called Lex, which is still in use today, which is disturbing, given that was 40 years ago.
+
+[laughter]
+
+SCHMIDT: And the people at the time — you have this notion that some of the tech industry is like it is now, it was then. Back then it was just technical nerds, right? There was no business context. There’s no formation. Just really interesting stuff.
+
+And Bell Labs, of course, came out of a monopoly agreement around AT&T, and as part of the way the monopoly was set up, Bell Labs was funded to do interesting things. About 90 percent of what Bell Labs did was related to signal processing and telephony. Remember I didn’t take those classes in college? But the 10 percent that did pure research and computer science ultimately had this enormous impact.
+
+Xerox PARC came out of a similar structure. Xerox, at the time, was a structural monopoly, although not a legal one, because they were the only people building xerographic copiers, and so they had the ability to create these research centers.
+
+And during this sort of golden age of research centers, this is where a lot of American science happened because they had enough money — universities didn’t have it. Today, you wouldn’t create a separate lab on the hill today. We’ve been through this in my career, now over 40 years. I’ve tried to set up these research labs and they don’t work when they’re separate.
+
+So at Google, when we did the same thing, what we did is, we created integrated labs that, actually — there’s not much distinction between the research part and the product development part. Indeed, the researchers and the developers work as a team.
+
+COWEN: So you then moved on to Sun Microsystems. You worked with Scott McNealy. What’s the most important thing you learned from him?
+
+SCHMIDT: Well Scott was a very strong leader, and Scott was a person of great charisma. He’s now retired. And what I learned about . . . I’ll give an example: The first month I was in the company, the products didn’t work at all, which is characteristic of most of the first year of the company. It was because at the time we were doing breadboarding, and we would do wires to the computers, and so forth, and nothing ever worked. I know it’s hard to imagine, but this is what the state of the computers were.
+
+I remember one evening, Scott gave this impassioned speech that we would all stay overnight in order to get enough hardware built so that we could make the quarter. I was shocked that people actually did this. And what I realized is that charismatic leaders can get people to do stuff that they would otherwise not rationally do, but because we were a team and because we believed in our mission, right at the time — these were work stations and we were battling the man in the sense that we were battling the older generation of computers — somehow we were motivated to do this.
+
+That motivation works and it works today.
+
+COWEN: You’ve said that praise is underused and underappreciated as a management tool. Why is it you think other CEOs don’t understand the importance of praise?
+
+SCHMIDT: There’s no simple formula for success, and there’s no simple formula for being a great leader. It’s a unique set of skills. But it is well understood that if you yell at people enough, they will quit, and if you’re nice enough to them, they are less likely to quit.
+
+And since slavery was outlawed many decades ago, as it should have been, you’re stuck with the problem that you actually need people to support you. All of the great leaders I’ve worked with have not used enough praise, although they’ve dragged along people because of their unique skills and so forth.
+
+But it just seems to me that if you take a moment, and you add the preamble of “Thank you” or “I appreciate it,” or “I recognize it,” people’s hearts sing, and you get a lot more work out of them.
+
+COWEN: But you think there’s some quality correlated with being a strong leader or a kind of disagreeableness that actually makes it harder for those individuals to see the value of praise? Or it’s just like a loose $20 bill sitting on the table, and they ought to praise employees more and they would do better.
+
+SCHMIDT: Most of the great, great founders are disagreeable in the sense that they disagree, but that doesn’t mean that they need to be disagreeable with humans. So it does not necessarily follow, to me, that because you’re an iconoclast, and because you are a very clear thinker, that you are also rough with people. I don’t think that the two have to come to that.
+
+Frankly, let’s use a stereotype — and stereotypes are always risky — but what’s the stereotype of the 20-something male founder? You know the stereotype person I’m talking about, right? This person needs more social skills. This person needs more teaching from their mother or something about how to behave in these kinds of situations. And inevitably, they grow up and they become softer, they become more insightful, and so forth. So early intervention from mother would help.
+
+COWEN: So you receive an offer to run Google. Why were you so skeptical about Google at first?
+
+SCHMIDT: Well, I assumed that search wasn’t very important, and I assumed the ads didn’t work. I was so concerned about the ads that, after I accepted the offer — because it just seemed like it was interesting, and a lot of luck comes from doing things that are interesting, and sort of creating your own luck — I hauled the then–sales executive, whose name was Tim Armstrong, who you all know well, and I said, “Tim, prove to me that these ads work.”
+
+So they showed me a set of ads, and they looked pretty foolish to me. So I said, “Well, let’s go find the finance person,” of which there was one, and the accounting system was done on QuickBooks. I said, “Prove to me that people are paying for these ads,” and they did.
+
+We then did an ads conversion in the first year, which was called Project Drano, where we basically took three different ads databases, which were simple compared to today’s databases, and merged them into one. And I was terrified, absolutely terrified that the ruse that we had — because we had fixed pricing on our ads — that people would discover that our ads were not worth anything.
+
+So I organized what I called the cash restriction period, where the only thing you could do if you wanted to spend money, is you could only spend money on Friday at 10 AM, and you had to come to me to justify it, which very much shuts down spending.
+
+So we get to this conversion, we turn the thing over, and of course, we didn’t bother to build into the tools. We had no metrics. We didn’t know what was going on. I’m going, “Oh my God, the company is bankrupt. My first year, I’ve done a terrible job. What will the board think?” I did my best to notify everybody we were going to go kaput.
+
+The auction produced a price that was three times higher than the previous prices. Very interesting. So much for the cash restriction period, and the rest is history.
+
+COWEN: If you were so skeptical of Google at first, what was it that convinced Sergey and Larry to actually hire you? Why should they hire a skeptic about their core enterprise?
+
+SCHMIDT: They had actually been interviewing for two years. They took the money from Connor Perkins and Sequoia, and part of the condition was they had to bring in somebody to run the company, and Larry and Sergei were okay with this as long as they liked that person.
+
+So they interviewed many people, and what they would do is give them a test. It usually involved hanging out with them and going skiing with them, or something like that. And they typically failed.
+
+COWEN: Because they couldn’t ski or they weren’t relaxed enough?
+
+[laughter]
+
+SCHMIDT: I don’t know. But when we met, I had had the same professors as they had. I was just an older version of their experience, and we clicked. So they didn’t take me skiing. We had dinner a couple of times. I wrote a lengthy memo of everything we would do together, and then it was obvious that we should work together.
+
+COWEN: If you think of one of the big successes of Google is scaling so quickly in terms of personnel without losing quality, what insights did you bring to bear on that process? Because obviously it worked, right?
+
+SCHMIDT: Let me make a different statement. You can systematize innovation, and you can systematize pretty much anything in a fast growing company. All you have to do is have a scale model of it. You can systematize strategy; you can systematize hiring; you can systemize product development. At various stages, we improved each of those.
+
+So in hiring, what happened was, we were hiring along, and we hired basically Larry and Sergei’s friends, people from Stanford. They were super smart, somewhat disorganized kinds of people.
+
+They hired a bunch of managers, and then they decided they didn’t like the managers, so they got rid of all the managers. This is called the Disorg. We then had one manager managing 120 engineers, and Larry and Sergei said, “Well, there’s no problem here. That means the managers cannot interfere with the engineers’ work.” That’s kind of the engineering model of the time. Eventually, we brought in management that could handle this kind of management style.
+
+The recruiting started off as informal, but it ultimately became very, very structured. We were famously focused on the school you went to and your GPA and not your experience. This caused all sorts of consternation, but it produced people who were both young in a sense of inexperienced in business. It produced people that were aggressive and ignorant of what they were doing, so they didn’t know what they were doing, but they could make mistakes.
+
+Our argument was that, in a fast growing company, we need people who can pivot around whatever the new challenge is, and we weren’t convinced that the people who had experience — since this was a new field — that that experience would allow them to pivot into the new problems, so it was a reasonable business analysis.
+
+We did all sorts of things. My favorite example is that we would interview people to death. We interviewed this one gentleman sixteen times, and we couldn’t decide. So I picked a random number, which was half, and I said, “We should have a max of eight, and if we can’t decide after eight . . .” We’ve since done a statistical analysis, and the answer today is four to five interviews.
+
+COWEN: What did he do wrong in the 15th interview?
+
+SCHMIDT: I just think it’s cruel. And companies can make mistakes, right? Because you’re growing quickly, the systems that you put in place can produce outlying effects that are not okay, whether they’re illegal, inappropriate behaviors on individuals, or just the company’s mechanisms. So again, this is a benefit of being a computer scientist: You think of scale and mechanisms. So I thought a lot about those things.
+
+We would interview people to death. We interviewed this one gentleman sixteen times, and we couldn’t decide. So I picked a random number, which was half, and I said, “We should have a max of eight, and if we can’t decide after eight . . .” We’ve since done a statistical analysis, and the answer today is four to five interviews.
+COWEN: There are many published accounts of Google. As you know, they describe you as having been the adult in the room or the person who brought discipline to Google’s processes.
+
+But if you step out of your modest self for a moment — and I’m trying to write a revisionist account of Google titled “Eric Schmidt as Innovator” — you are going to describe for me in, say, two or three minutes, what you did personally that was the most innovative, how you imposed your innovative stamp on the company.
+
+What would be your story of Eric Schmidt as Innovator within Google? And not just the adult in the room.
+
+SCHMIDT: It’s important to establish that Larry and Sergei were the technological and strategic brilliant minds here. My job was to keep everything organized, and I had — and have — a bunch of rules in my mind about how you should run things.
+
+An example is, you have a room full of people. Inevitably, half the people talk, half the people don’t talk, and often the women are more likely to be dominated by the men. Again, in general terms, in terms of interruptions and so forth.
+
+What you want to do is, you want to basically call on somebody who’s not speaking — a typical scenario, you call on the woman who hasn’t had said anything. She will inevitably give an extraordinarily interesting and thoughtful answer. Then get people to respond to her, and let her speak.
+
+That kind of mechanism forces a leveling of the discussion and gets everybody on the same table. Often in companies, if you see executives that don’t manage to build the . . . Things are happening so quickly, they don’t build common knowledge, things go off the rail. Market people are doing one thing; sales people are doing another.
+
+Another thing that we did is we had a thing called 20 percent time, which was a safety valve. It would allow people to work on things that they thought were interesting.
+
+COWEN: And that was your idea.
+
+SCHMIDT: No, that was actually Larry and Sergei’s idea that I promoted.
+
+COWEN: But Eric Schmidt as Innovator, what was the main innovation you brought to Google?
+
+SCHMIDT: It’s hard to know.
+
+COWEN: Is it true you had a plastic slide leaving your office?
+
+SCHMIDT: Yes, there are many such things that are true.
+
+[laughter]
+
+
+COWEN: And how did that fit into your vision of Google? The plastic slide.
+
+SCHMIDT: It’s very important not to do anything culturally inappropriate when you’re the adult. So in my case, whatever was happening, it was fine. One day, there was this telephone booth that showed up, and I said — sitting in the hall — and I said, “Who bought the telephone booth?” Everyone’s looking around. And I said, “I thought we put in place a proper procurement rule.”
+
+Well, turns out there were a few extra credit cards in the company floating around, and random things were showing up. This is how I ran things. But it’s important not to go to the person who bought the telephone booth and say, “You’re fired.” The important thing to do is take their credit card away.
+
+[laughter]
+
+COWEN: You’ve spent many years hiring very smart people. In economics, there’s a debate about higher education: how much of it is human capital acquisition, how much of it is just signaling how smart you are. If someone is coming out of a top school, do you think of the main contribution of Harvard or MIT — is it human capital or is it signaling?
+
+SCHMIDT: It’s both. And again, in our model of the world, the fact that top universities had sorted through these people was a pretty good piece of data for us to understand whether we should spend . . . It was a good selection process.
+
+Today, we are not quite as snooty as we were back then. We’ve figured out better ways than even the ones I’m describing to bring in people. So don’t despair if you don’t follow that exact profile. But in the early days, we were quite rigorous about this.
+
+The other thing that happened, was, one day, I was talking to Larry, and I said — this is a long time ago — and I said, “Larry, we’re building glue people.” Glue people is my term for people who are very, very nice, who sit between two functions. You don’t need them, but everyone likes them because they carry the person’s bag, and they write memos, and so forth, but you don’t actually need them. They make the system less efficient, if you will.
+
+And he said, “Well, it’s obvious.” I said “Like what?” He said, “We should just review all the offers.” And so we began a process of reviewing all the offers to make sure that we were achieving the kind of specialized skills that we thought, and we did this until the company was many thousands of people.
+
+The simple example is, you get a big company, and you get some CEO, and they’re complaining, and I say, “Well, how many people will you hire this year?” And they go, “Well, we’re kind of flat.” That’s not the question I asked.
+
+A typical American company has a turnover of about 10 percent. Sometimes, it’s higher. So if you have a 20,000-person company, you’re hiring 2,000 people, plus or minus, okay? That’s a lot of leverage over a few years in terms of the hiring pool, and yet the CEOs are unwilling to go in and do the surgery necessary to bring in the kind of talent to lead them to wherever they’re going in the next generation.
+
+COWEN: Google saved a lot of money doing its own IPO, in essence. Why don’t more companies do this? Spotify did a version, but it’s otherwise fairly rare.
+
+SCHMIDT: Well, I’m not sure I agree with you that we saved a lot more money because, had we negotiated on a traditional IPO with the same cost structure, my guess is we would have paid the same fees.
+
+The reason that we did our IPO — and I’ve written about this publicly — is that we were in the auction business, and we did more auctions than anyone else in the world by far. It made no sense to us to do the traditional IPO, which is not really an auction. It’s really a placement, and it’s hand negotiated. So from our perspective, the notion of a Vickrey auction or double blind auction, where people bid, made perfect sense.
+
+There’s not evidence that it materially changed the outcome, but it was our way of doing it, and I’ve thought a lot about it, and I think the answer is, we would still do our own unique auction. I think the reason people have never done it is, it hasn’t been sufficiently worth . . . In other words, the gain has not been sufficiently worth to those companies, the cost of being different.
+
+COWEN: Now as you know, Google Groups never took off, and arguably Google failed with social networks. Maybe, in some ways, that was a blessing in disguise, but given all of the talent you had assembled, what was it that was missing in the Google cultural DNA that made it hard to succeed with social networks?
+
+SCHMIDT: Well, first place, I need to take responsibility for that failure. There were plenty of things that went unwell, but I think that in my CEO-ship, that was probably the one that I missed the biggest.
+
+And my answer is because we didn’t use it, that we were of the age where we were more comfortable with telephones and email and that kind of stuff, and this was emerging. And there really was a slightly younger generation that was really driving it. The stuff was invented well past when I was in college.
+
+And because we didn’t collectively use it, I suspect we didn’t fully understand how to do it. I think we’ve remedied this. For example, today we have quite a powerful social network embedded inside of YouTube, but I think it would be fair to say that the rise of Facebook, etcetera, occurred on my watch.
+
+COWEN: Given all the data that search companies and some of the other major tech companies have, why aren’t they bundled with hedge funds?
+
+SCHMIDT: What do you mean by bundled?
+
+COWEN: Well, literally in the same company. You’d have a tech company and a hedge fund, and there would be a synergy because the hedge fund would use the data generated by the tech company for investment. So the hedge fund would have that data first. We don’t see that in the market.
+
+SCHMIDT: Well, I’ll give you a more generic answer, which is, from the moment I joined the company, there were many people who said, “Why don’t you take this information and do something that will use it for marketing purposes?”
+
+And the answer is always the same, which is that you need people’s permission to do that, and you can be sure you won’t get that permission, if you follow that reasoning. So we decided that was a pretty bright line. For example, if a tech company that were a consumer company were bundled with a hedge fund, you would have to disclose that it was being used in that context. The people would go crazy.
+
+But the other thing that’s true — and Google was good about this — is we took the position that it was important for us to disclose everything we were doing as well as we could.
+
+I’ll give you a governance argument. In a large company, the employees are independent citizens of humanity, and if they see corruption in your leadership — in other words, if they see you doing things which are inconsistent with the values, you will be criticized. Now, sometimes that criticism is incorrect and sometimes it’s correct, but the important point is that if you make a mistake, you better disclose it pretty quickly for obvious reasons.
+
+So, if we were to do that kind of stuff, which we are not going to do — so we’re clear — we would have to disclose it, it would have to get debated, and then we would eventually say, “What a stupid idea, why did we decide to do that in the first place?” You don’t have an option — you can’t do these things in secret, nor would you want to.
+
+COWEN: Right now, there are various devices you can speak to, such as Alexa, and it will play a song for you or buy something for you on Amazon. Just in your mental wish list — something that doesn’t exist now — if there were a function where you could speak to a device, and the device would perform that function for you, what would it be? What do you want that you can’t get right now, as a consumer?
+
+SCHMIDT: Well, if you look at the current generation of devices, what I really want is the Google Assistant to work at scale, which means that I want an assistant that I can talk to that talks back, that is like a human assistant and brilliant, that knows everything.
+
+As an economist, you might want to talk to your assistant and ask them theoretical questions of economics. I can imagine lots of things I would like to ask. Today, sitting there and saying to your Alexa or Google Home, please turn off the lights, strikes me as kind of a low level question. There must be some much more sophisticated things we can do.
+
+Many people believe that we can get to the point where you can have incredibly intelligent assistants that are on these devices, and that much of the interface will be verbal, not text.
+
+I look at you all’s generation, and people . . . I carry my computer around all day, which I’m very happy about. I used to have a computer that was immense, now I have a tiny computer.
+
+From your perspective, a smartphone is your computer, and you would prefer to just talk to it. And I think the technology is finally there to be able to do that. There have been many accomplishments that have surprised me. The quality of image recognition and voice recognition that we have today, I thought would be unachievable in my lifetime. Those are phenomenal gains.
+
+COWEN: I want something that will answer the doorbell for me.
+
+On things under- and overrated
+Now, in all of these discussions, there’s a segment in the middle called overrated versus underrated. I’ll toss out some ideas or things, and you tell me what you think of them, if they’re overrated or underrated. Of course, feel free to pass on any of them. Our first one, Antarctica.
+
+[laughter]
+
+SCHMIDT: So I went to Antarctica, and it is underrated.
+
+COWEN: Tell us why.
+
+SCHMIDT: There’s something amazing about being on a continent you’ve not been on. And let’s just say it was summer, and the weather was a 50 knot gale, so it’s a rough place. There are people who live there year round, and they’re very interesting to talk to.
+
+[laughter]
+
+COWEN: Blockchain, overrated or underrated?
+
+SCHMIDT: In the public format, overrated. In its technical use, underrated.
+
+COWEN: And what do you think that technical use will prove to be? What problem is it there to solve?
+
+SCHMIDT: Well, today, blockchain is a great platform for Bitcoin and other currencies, and it’s a great platform for private banking transactions where people don’t trust each other.
+
+I think the most interesting stuff that’s going on are the beginning of execution on top of blockchain, the most obvious example being the capability of Ethereum. And if Ethereum can manage to figure out a way to do global synchronization of that activity, that’s a pretty powerful platform. That’s a really new invention.
+
+COWEN: The painter Cezanne.
+
+SCHMIDT: I prefer Picasso, but I’m not sure if that’s helpful.
+
+COWEN: How about late Picasso, overrated or underrated? Many people dismiss it, but it’s priced much lower. A lot of works in the late period not yet discovered.
+
+SCHMIDT: I’d say I’m an earlier Picasso fan.
+
+COWEN: Early Picasso fan.
+
+Effective altruism as a movement, that people should give away their money using quite rational standards, which can be derived by reason, using economics and philosophy?
+
+SCHMIDT: So what happens here — this is when economists think they actually understand how humans work.
+
+[laughter]
+
+SCHMIDT: And of course, you’ve done a great deal of work on this question of whether humans are rational or irrational, so my answer is different. You cannot take it with you as much as you want.
+
+We have a subsidiary called Calico, and one of the things they work on is aging, and they put up a chart of how long people live and what they die from, and it’s stunningly sobering. Everyone here is alive today — figure it out and make sure you use that opportunity to your best and serve the world with it.
+
+With respect to economic reason and rationalism, most of the stuff that’s not business is not very well managed. So as a general rule, broadly speaking, health care, education, governments, philanthropies — they’re not well run compared to businesses.
+
+Surely, systems that include measurement criteria, objectives, Google uses something called OKRs. The ability to measure things and outcomes is now so much better. Give your money and give your time to groups that actually can have an impact, and that measurable impact.
+
+People are constantly asking me to do something for them, and the problem that I have is, show me what the outcome is. And it’s an emotional pitch, it’s a marketing pitch, and everybody, including me, is subject to marketing, and I would say that’s a marketing pitch. Tell me what you’re going to accomplish, tell me the probability, and tell me how you’re going to get there, and then I’ll participate.
+
+COWEN: Yellowstone Park, overrated or underrated?
+
+SCHMIDT: Yellowstone is fantastic. I have a house in the Big Sky area, it’s fantastic.
+
+COWEN: Oh, wonderful.
+
+Your view on the Cuban economy. Is it going to take off? Or is it stuck with most of the other Caribbean economies, plus the heritage of communism and socialism?
+
+SCHMIDT: I think I was the first person to meet the new president, from America. And he’s coming to New York in the next week, so I’ll see him again. Cuba is a very poor country. They need a lot of help. We have managed to blockade them, as they call it, for 50 years, and that’s not a good thing. So I’m in favor of opening it up. I think the economy will do well if America works with Cuba. At the moment, we’re going the wrong way.
+
+COWEN: You’ve been to North Korea. Most of us have not. What is it you think you might understand about the place, having been, that maybe we don’t?
+
+SCHMIDT: The scariest thing about North Korea is the ability to control everyone’s behavior in a systematic way. And as you all know, they have a system of both hierarchy, they have a particular religion which is called . . . I can’t pronounce it, but it’s a particular religious structure, which includes stratification, people in various levels, and various incentives and disincentives to play in it.
+
+It’s quite striking to be in a country where the kind of debate and bitching and complaining, and so forth and so on, does not seem to occur. Or if it occurs, it’s highly, highly suppressed. And that’s the thing I took away from it.
+
+Now having said that, I also took away the fact that North Korea is very poor. Again, one of the vestiges of communism and socialism and so forth, is the economies aren’t very good and the people really suffer. And so, I came away with great respect for the people and concern for the ability of such a strong-minded central state to keep people in such buckets.
+
+COWEN: Now some very general questions. If you could make one reform to American corporate governance, what would it be?
+
+SCHMIDT: Longer time frames. Pretty much everybody agrees that the quarterly cycle makes it very difficult for companies to invest and do . . .
+
+COWEN: But that’s voluntary though, right? So companies could move away.
+
+SCHMIDT: It isn’t really voluntary because . . . Remember, systems run based on alignment of incentives. If you create a situation where, when you get promoted, you get a rug in your office, and if you’re not promoted, you don’t have a rug, then you’ve created a market for a rug. So my goal was always to not have a market for the rug.
+
+I don’t want people to be focused on the wrong incentives. I want them to be focused on the right incentives, which is to change the world, have an impact, have scale, deliver great products, serve the customers.
+
+So what I worry about is that, in companies where you have misalignment between shareholder interests, hedge funds, short-term interest, short-term owners, I’d rather have long-term shareholders in corporations. I think it would produce better governance.
+
+
+COWEN: So the quality of the shareholders, you think is the key feature here?
+
+SCHMIDT: Well, you don’t get to choose your shareholders unless you’re a private company.
+
+COWEN: Sure.
+
+SCHMIDT: But my point is that in a situation where the shareholders can overthrow anything, you can have all sorts of interventions. You might not be getting optimal long-term governance. Most of the companies that I’m aware of are more focused on short-term earnings and paying their debts and so forth and so on, than they are building for the long term.
+
+And most of their owners won’t reward them for taking risk, even if risk is the right thing for them to take. And that’s why, ultimately, you get sort of sheepish leadership as opposed to aggressive leadership.
+
+One of the great things about Google, is, because we have a two-class system — now three-class system — we feel somewhat insulated from that, although I can tell you even then, the share price to our employees matters. We give options, people pay a lot of attention to these things.
+
+COWEN: Putting aside all partisan issues of this current day, but do you think there are major or long-standing systemic flaws in US politics that could be remedied by structural reform?
+
+SCHMIDT: Well, people who have looked at this all see the brilliance of our founding fathers, but also a rural bias in the structure. So the fact of the matter is, in the senate, as more and more people move to the cities — and remember that when the country was founded, it was a rural country — as more and more a percentage of our population moves to cities, the more there is a disconnect between where the people are and where the leadership is from and how the leadership makes its decision. You see this every day in the way our government runs.
+
+COWEN: So the leaders should be more rural is what you’re saying?
+
+[laughter]
+
+SCHMIDT: No, I think that the citizens should move to rural areas, or there should be more power allotted to where the people are.
+
+COWEN: What is the chance, in your view, that the Internet simply fragments globally over, say, the next 20 years? China has the Great Firewall. The European Union is going its own direction with tech and Internet regulation, and it’s mostly not their companies they’re regulating. What’s the chance that, say, 10, 15 years, we just have three or four separate Internets?
+
+SCHMIDT: We spend a lot of time worrying about this. In one of my books, we wrote quite a bit about this subject, we called it balkanization. My friend from the Balkan says, “Please don’t use that term.”
+
+[laughter]
+
+So you use the right term, which is to splinter. I think the most likely scenario now is not splintering but rather a bifurcation into a Chinese-led Internet and a non-Chinese-led Internet, presumably led by America.
+
+If you look in China — I was just there — the scale of the companies that are being built, the services that are being built, the wealth that has been created is phenomenal. The Chinese Internet is a greater percentage of the GDP of China, which is a big number, than the same percentage in the United States, which is also a big number.
+
+So, if you think of China as like, “Oh, yeah, you’re having good with Internet,” you’re missing the point. Globalization means they get to play too. And I think you’re going to see a fantastic leadership in products and services from China, and there’s a real danger that, along with those fantastic products and services, comes a different leadership regime from the government, which is censorship and controls and limits and so forth.
+
+And if you look at the way the BRI works, which is their Belt and Road Initiative — sort of 60-ish countries — it’s perfectly possible that those countries will begin to take on the infrastructure that China has as well, with some loss of freedom.
+
+COWEN: Do you think the major Chinese tech companies have managerial strengths that the US tech companies do not? Or are they, in some ways, beyond our frontier?
+
+SCHMIDT: The managers I’ve met in the tech companies feel exactly like Google did 10 years ago. Crazy growth, this problem, that problem, with one more problem, which is that, because they have regulators they have to deal with, they also manage up because the government can say yes or no to many of the things that they were doing. But the leadership is impressive — they’re smart.
+
+COWEN: You once said the following, “People are surprised to find out that an awful lot of people think they’re idiots.” Is this still true? If you go on Twitter, many people think you’re an idiot, people get offended. Are we getting better at this? Or worse at this?
+
+SCHMIDT: As a general rule, I try to blame the Internet for everything because everyone else does, and I think some of this is true and some of it’s false. That was a joke by the way. And you can’t joke anymore in the age of Twitter.
+
+I’m worried that — let’s see if I can say it right — I’m worried that the sum of the way social media works is organized around some human weaknesses, not human strengths.
+
+I’m worried that the sum of the way social media works is organized around some human weaknesses, not human strengths.
+I’ll give you an example. There’s evidence that, if you’re shown a fake video, and you’re told it’s fake, you can’t eliminate that memory from your brain — it’s a human thing. So if that’s true, then eventually, some startup will figure out a way to exploit that without necessarily the best societal outcomes.
+
+So, what I worry about is that the structure that we have now in the Internet allows an individual crazy person to be amplified, and there are many, many examples of this that occurred in 2016. Perhaps we’ll see this again in our election year in 2018. But the important point is, crazy people always existed, but now we can sort them and hear them at a level and an amplification — especially if they serve someone else’s business interests — that’s not good.
+
+We’ve known for a long time that disinformation would be a good business for some businesses. So I worry that the sum of people who have special interests, which are governments, foreign governments, special interests of one kind or another, lobbyists, and so forth, will be able to create an environment where people are not able to distinguish between legitimate individual speech and marketing speech, in the sense of stuff that’s being sold to them or peddled to them by some foreign power.
+
+It gets much worse with AI because you can imagine AI subtly learning what your preferences are and then learning how to manipulate you. This again is a theoretical scenario. I’ve thought a lot about it, and I’m strongly in favor of free speech for humans. It makes sense, right? But I think we have to deal, as a society, with this question of how much of an amplifier do you want to give to people who are truly insane?
+
+COWEN: Silicon Valley has had a phenomenally successful team-building culture, and you see this in the productivity of the successful companies. Other people allege there is excessive ideological conformity within some of the largest tech companies.
+
+Is the success of team building and the ideological conformity two sides of the same coin, and if you have one, you get the other? Or do you think there’s not excessive ideological conformity? Or is ideological conformity a separate problem that can just be peeled off and solve it on its own, without breaking down the team-building culture? Do you see what I’m asking?
+
+SCHMIDT: I do. I think it’s important to remember that the tech culture is not mainstream culture. Tech people are always shocked that the rest of the country doesn’t vote with them. The average tech person, as a gross generalization, is socially liberal and fiscally conservative.
+
+If you look at the quadrants of combinations, that percentage is the smallest percentage of the demographic of the United States. It’s not the largest. If you spend all day in tech, you assume that everyone else is like you, and I suspect this is true in the other gatherings, as well. There’s this sort of selection bias where you select your friends, and you all agree with the same thing.
+
+So I think there is a uniformity in some values along the lines that I just described, with some reasonable variation among them. I don’t believe that that is necessarily a bad thing because, ultimately, teams have to work together. They have to have a common belief, and they produce amazing outcomes.
+
+COWEN: The major tech companies have done very well, of course, but if we imagine some world in the future where some tech companies are at or near insolvency, and if we think maybe they have a fiduciary responsibility to sell off the information they hold on people, is that a regulatory problem we will need to address?
+
+Obviously, a successful tech company is not going to do that. They would wreck their franchise.
+
+SCHMIDT: Yeah, so the problem that you’re posing is, we have a company that has a great deal of useful information that’s also bankrupt.
+
+COWEN: Right.
+
+SCHMIDT: That’s not a scenario that’s likely because, if it has a great deal of useful information, then that can be monetized in a good way, in a way that’s valuable and serves their customers’ interest. So I think it’s an oxymoron. I think it just is not going to happen.
+
+A way of rephrasing your question would be, you have historic data in a company that’s in big trouble. Should there be some regulation? And I’m assuming that whoever would purchase that company would want to respect the value of that information, which includes the restrictions on it.
+
+So I think the scenario where somehow you have a bankrupt company, you have historic data, and somehow they just do something horrific — there’s no economic reason why that would occur.
+
+COWEN: There are plans for Google to help with planning part of a smart city in part of Toronto. What’s the biggest obstacle toward that working well?
+
+SCHMIDT: Well, we have a subsidiary called Sidewalk Labs, which I’ve been helping out with and . . .
+
+COWEN: When I say Google, I’m meaning Google/Alphabet.
+
+SCHMIDT: Yeah, technically part of Alphabet.
+
+COWEN: Yeah.
+
+SCHMIDT: This again came from the founders, who were interested in rethinking about cities along with rethinking about a lot of other things, which is why they’re so special. We were able to hire Dan Doctoroff, who’d done a lot of work in New York, to lead that.
+
+What he’s been doing is, he first assembled all of the new ideas about cities, and everyone has lists of complaints about cities a mile long, right? The traffic is bad, the air is bad, I can’t get a taxi, Uber doesn’t work here. There’s a long list of people’s complaints about cities. They’re not safe, the education system isn’t strong enough.
+
+The idea is to come up with urban settings where you can address a multiplicity of those. Another issue is housing costs are too high. Can we get the housing cost down?
+
+We are doing a process of thinking through that, working with the friendliest and most helpful, if you will, government regulatory body that you can imagine, and it still take years. It takes years. The model we’ve chosen is a consensus-building one, and I think you’ll see some interesting outcomes.
+
+The most interesting thing about city building is city building is extremely rare. Even in cities where they go bankrupt or they get in big trouble, it’s almost impossible to change the planning assumptions about a city because of the way in which the human incentives and all of the very special interest groups that have locked themselves into a state.
+
+So we won’t really see innovation in cities unless we’re willing to exempt from some rules or build completely new cities. You are seeing new cities built in China and in Saudi Arabia and maybe in a few other countries, and we’ll see how that goes.
+
+COWEN: What kinds of innovations do we need in cities or suburbs to lower housing costs in the Bay Area? And what will happen to the tech cluster here if we don’t have those innovations?
+
+SCHMIDT: Well, the Bay Area is subject to a historic no-growth, slow-growth view, which benefits the incumbents and hurts immigrants into the area. I am a landowner, and if I keep my land undeveloped, then the price goes up because there’s greater demand.
+
+There is a solution for this, which is to build skyscrapers in selected areas. That’s how other cities have done it. For all sorts of reasons, the Bay Area has not allowed that. But if you look at New York — the way New York has adapted itself over the over 100 years, is it built on very small parts of land, high, tall residential towers of one kind or another.
+
+The Bay Area needs to solve its housing crisis because the Bay Area is not going to become less desirable. And it’s really discriminating and really hurting an awful lot of people.
+
+Skyscrapers are one. There are other scenarios. For example, there are ways in which you build very dense, low number of floors housing — which are dense and relatively small — in urban settings. And there are planners to that effect. The Bay Area needs to decide. But the current situation where any proposals get blocked is not good because the growth is not going to slow down.
+
+COWEN: There had been a plan to scan as many of the world’s books as possible and make them available online. Do you think that will ever happen? And what’s the main obstacle preventing it right now?
+
+SCHMIDT: We made a good start at it. As you know if you use Google Book Search, you’ll see quite a few there. Ultimately, we had a lot of issues with the rights holders because in many cases you’d have a 50-year-old book, but we couldn’t find the right holder, and we had to follow the copyright law. I’m not suggesting copyright is wrong. I’m just saying that’s a problem if you want to scan everything.
+
+COWEN: Is it a solvable problem?
+
+SCHMIDT: We had a number of solutions, but we could not come to agreement with the book publisher industry and through legal process.
+
+COWEN: If you think about the dynamic future of venture capital and your role in Village Global, how is it you try to stay in touch with dynamic trends in venture capital?
+
+SCHMIDT: Well, venture capital is not about venture capital. It’s about entrepreneurs. So, if you’re in my situation or anybody else like me, you should have a pretty good map of where all the activity is. If you don’t, then you’re not really going to be able to have an opinion, you’re not really going to be able to see it.
+
+So, I work hard to hear the pitches. For example, I’ll sit through these life sciences pitches, and I really don’t have a feel for it. I don’t really understand the claims, but I can at least draw the map of where everybody is. So my general advice is try to draw a map in technology of where the activity is.
+
+I’ll give you an example. What’s the thing that’s going to explode in the next 10 years in a good way, explosion? Sensors. Sensors, every conceivable kind of sensors. Why? Well, you already have Android phones, iPhones — there’s a huge number of sensors right there. You already have very inexpensive cameras. You have incredible connectivity now.
+
+There’s every reason to think that every conceivable kind of sensor — in a good way of sensor — can become available. What kind of businesses can you build on top of that? What problems that the world has can you solve by virtue of that?
+
+COWEN: What will these sensors do for us?
+
+SCHMIDT: Well, if you go back to philanthropy — you give your money away, but you have no idea if any of the stuff gets used. But now you can actually figure out, by putting sensors on things, whether they actually end up in the right place. Simple stuff like that. RFID tagging alone meant an awful lot of misplaced and stolen activities got to the right place.
+
+My point is, as a technological matter, the world . . . If you think about 20 or 30 years from now, you can be sure that we — and hopefully we’re all alive, but more importantly, our children and our grandchildren — will be facing lots of governance problems: the religious conflicts, and whether the Senate and the House should do A or B, and whether people are happy with the president, and on and on and on, and the Chinese, and so forth.
+
+What will be different is it will have incredible information on wired and wireless networks, sensors, and databases, and tools which will help us make decisions.
+
+COWEN: Now, we’re all just guessing at this question, but what do you think will be the expected life span of an upper middle-class American child born today?
+
+SCHMIDT: There are numbers that have been published to that. The generally accepted number is about 90 years old, and the generally accepted number is it goes up on the order of one year every few years. So it’s reasonable to expect that a child born in 2030 or 2040 could have a life span of about 100.
+
+Human lifespans, on average, have been increasing for many, many reasons, starting with antibiotics, better water, and so forth, and now there is an explosion in later-life medical care and around cancer and heart and so forth.
+
+I was talking to my doctor, and he said, “It used to be that people just sort of died, and now you have to work with them.” So you better, for example, expect to have a daily or a weekly physical therapy thing to keep your muscles going, take your quarter aspirin, all that kind of stuff.
+
+COWEN: And is there a cap or an asymptote on that process? Or we just keep on going?
+
+SCHMIDT: A lot of people have looked at this, and many people think that God’s design for us did have kind of an asymptote and that we’re sort of bumping up against it. And we’re going to keep finding ways to extend it, and nature will keep finding ways of making it hard to extend it. Even with some of the fantastic cancer improvements, there’s evidence that other decay processes begin.
+
+Remember these are averages, but remember that even if we could make the average life span five or ten years longer across the global cohort, that’s a huge increase in the number of people and their productivity.
+
+COWEN: Why has there been so much middle-class wage stagnation in the United States?
+
+SCHMIDT: Well, I’m going to ask Tyler Cowen this question.
+
+[laughter]
+
+COWEN: Well, I would say there’s been a technological slowdown, but I’m not sure you’re allowed that answer.
+
+SCHMIDT: A technological slow down . . .
+
+COWEN: In areas other than the service sector.
+
+SCHMIDT: No, you mean a nontech slow down?
+
+
+COWEN: Other than tech, most sectors have been fairly stagnant in my view.
+
+SCHMIDT: Okay, and why is that?
+
+COWEN: We’ve run out of new ways to use fossil fuels and powerful machines, so we’re hitting an asymptote in many other sectors. Tech is doing wonderfully well, but it’s not a big enough sector to boost, say, GDP growth rates up to 3 percent. People who export . . .
+
+SCHMIDT: Well, isn’t our GDP growth 3 percent at the moment?
+
+COWEN: At the moment. But some of that’s catch-up. Year-over-year, it’s 2.7. But if you think we . . .
+
+SCHMIDT: 2.7 percent? I’ll take 2.7 percent.
+
+COWEN: If we have the perfect labor market performance and a big fiscal stimulus, and the best we’re doing is 2.7, when, say, in the 1980s, we had 4 percent, maybe that’s underwhelming.
+
+SCHMIDT: Well first place, the 4 percent could have been demographic rather than — our current demographics are not. . .
+
+COWEN: Sure. But that may be a reason why we’ve had wage stagnation also.
+
+SCHMIDT: Yeah. A couple of things. First, I think the ’60s, ’70s, and ’80s had greater growth on average, largely because of the demographic boom of World War II and the baby boom generation.
+
+We face the inverse going forward. So I’m really glad to look at an audience of people who will be working very hard to fund my retirement. And there are so many people like me, that you’re going to have to work even harder, right? And that drives a lot of the economics around productivity. It’s why, for example, AI systems will make you more productive and not cause you to lose your jobs. That’s a way to understand that.
+
+With respect to the middle-class wages, I would argue that in many cases they’re missed opportunities to apply technology to these industries. An example would be that, if we use technology to make cars faster, cheaper, more efficient, and so forth and so on, they would cost less or at least be easier to manufacture.
+
+So I’m all about applying technology to nontechnology sectors to improve their productivity. I’m convinced that a small number of software people applied to each of these industries — looking at how they operate, redesigning the way their business processes work — will make a huge difference. Indeed, Google has a set of businesses that are trying to do that across a set of industries.
+
+On the Eric Schmidt production function
+COWEN: To close, I have a few questions about what I call the Eric Schmidt production function, that is how you have been productive. First, very simple: What would you describe as your greatest talent in business?
+
+SCHMIDT: I’m a systemic thinker, and I like people, and I like to think about how people behave. So the key thing in leadership is organizing — how do you get people to do things? My father taught me that the best way to get people to do stuff is to have it be their idea. So if you can find a way that your idea is also their idea, then you can go back to working on the people whose idea you don’t agree with.
+
+My father taught me that the best way to get people to do stuff is to have it be their idea. So if you can find a way that your idea is also their idea, then you can go back to working on the people whose idea you don’t agree with.
+The ideal manager doesn’t ever have to do anything because all the people who they work with are self-functioning, they’re self-organizing. It’s so obvious what they should do and they love it so much, they never have any problem. They solve all their problems. Of course, that’s not how it really works, but if you can’t motivate people around that, then you’re not really giving them an opportunity to be successful.
+
+COWEN: What’s your media diet? And how do you consume it?
+
+SCHMIDT: Well, for a long time, I read real newspapers. Nowadays, I use the various news aggregators to read the news on my various phones, which I view as suboptimal, but that’s sort of my reality as a person who moves around a lot.
+
+The reality is that first, you should read multiple stuff, and second, I’m careful now to look at the source of information because it’s so easy for people to mislead you and look like they’re legit, but in fact they’re not.
+
+COWEN: And is there an underrated media source that you would direct our attention to?
+
+
+SCHMIDT: The Economist.
+
+COWEN: The Economist.
+
+SCHMIDT: Named after you.
+
+[laughter]
+
+COWEN: And your father, Wilson Schmidt.
+
+Let’s say I’m a young person, and I’m coming up in the tech world, and I say to you, “I’d like to be the next Eric Schmidt.” And they cannot obviously copy your career or follow in exactly the same footsteps, but they want to be a next generation analogue of what you’ve done. What advice would you give to that person?
+
+SCHMIDT: Well, it goes back to the question of luck. So I was lucky because I had good taste in friends, and they helped me out. So the most . . .
+
+COWEN: Isn’t that skill and not luck?
+
+SCHMIDT: Okay, I’ll let you define that.
+
+[laughter]
+
+SCHMIDT: But basically, the best things in your life will come from the people that you hang out with. I mean the people that you love to work with, and the people with whom you have passionate talks all night about and that kind of stuff. And if you can find those people, sign yourself up on their ship. That has worked incredibly well for me.
+
+I had the benefit of being early in the computer industry, so that’s like super luck. But my real opportunity is, I look at each of these stages, I was picked early, I worked with smart people, people took a risk on me, and I learned.
+
+I want to make sure that you all hear that. So today, when, as entrepreneurs, remember that the quality of the people that you work with — the people you hire, the people on your board, and so forth — will determine an awful lot of your outcome.
+
+Today, as entrepreneurs, remember that the quality of the people that you work with — the people you hire, the people on your board, and so forth — will determine an awful lot of your outcome.
+In the media, there’s this fascination with founders and how brilliant they are, but corporate success is a team sport.
+
+As much as we love and identify our founders, it is the people who work for them every day, who worked the 16 hours a day, and they did so because they loved the founders, they loved the vision of the company, and they cared a great deal about that. Then, when they went home to see their families, exhausted, they said, “I was proud to go to work, and I was proud to do this.” Those are the people you want to associate with because those are the people that will change the world.
+
+COWEN: Eric Schmidt, thank you very much.
+
+SCHMIDT: Thank you very much.
+

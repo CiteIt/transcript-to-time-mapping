@@ -1,0 +1,465 @@
+PJ VOGT: Hey, quick warning before we start the show. This week’s story has a couple vivid descriptions of sexual violence. They’re both in the second part of the story, but if that’s not something you want to hear, this might be a good one to skip. Ok.
+
+[REPLY ALL THEME MUSIC]
+
+FROM GIMLET, THIS IS REPLY ALL, IM PJ VOGT
+
+PJ: At 33 years old, after years of working in a meat market, Pedro Serrano switched careers. He’ll never forget his first day at the new job. 
+
+PJ: Where did–where’d you get sent?
+
+￼PEDRO SERRANO: Uh, the 4-0 precinct. That's, uh, 138th Street and Alexander in the Bronx. So now we go there in the 4-0 precinct, eyes are wide. 
+
+I'm a 30, I dunno, 33 years old, old man. But I feel like I'm a rookie. This is brand-new. If you ever change jobs and feel funny that first month etcetera, that times 100–
+
+PJ: Right–
+
+PEDRO: Because you have a gun and radios. They sent me to a very active area, in regards to crime. A lot of crime. Everywhere.
+
+PJ: What kind of crime?
+
+PEDRO: You name it. I mean it’s everything. There’s robberies, uh, there's rapes, there's larcenies, there's assaults, you name it. I mean, whatever's out there, it's out there.
+
+PJ: The thing that was weird about the job was that Pedro's bosses didn't really seem to want him to pursue the actual, violent, serious crimes that he saw. What they wanted him to do instead was just to write summonses. Summonses are just the tickets that cops give out for the low-level stuff, misdemeanors. You'd give a summons to a guy drinking a beer in the street or riding his bike on the sidewalk. There was a lot of pressure to write summonses. 
+
+PEDRO: One of the ones that, you know, never leave my head was it was overtime. We’re ordered to write five. And the van–
+
+PJ: Write five like you had to–you have overtime but you gotta come back with five summons?
+
+PEDRO: Five summonses or get dealt with. I’ll explain that later. Well, we, uh, we’re driving around and the senior guy stops and says, “All right. This is one.”
+
+PJ: It's really early in the morning. The streets are almost completely empty. It's hard to even find a person, let alone somebody doing something wrong. Their boss is pointing at this man who’s just standing on the sidewalk alone, outside a store. But the van stops.
+
+PEDRO: Some guy jumps out. And this one guy, in front of a bodega, doing absolutely nothing, they gave him a summons for blocking pedestrian traffic. You know, we were just shaking our heads like, “What did you give him?” “Blocking pedestrian traffic.” And they just start laughing. I'm like, oh wow. All right. So we move on.
+
+PJ: Pedro says the next stop was this Mexican man who was just sitting alone on a stoop. They wrote him up for the exact same thing: Blocking pedestrian traffic.
+
+PEDRO: And this was all night until all of us–there was like a four or five of us in the van, until everyone had five. 
+
+PJ: Pedro was so confused by what had had happened that night, he actually went home, and looked up the definition of blocking pedestrian traffic. These guys had not been blocking pedestrian traffic. This was absurd. And Pedro didn't know it, but all over the city cops were getting pushed in the exact same  way -- to aggressively write summonses to people for doing seemingly nothing. I talked to another cop, this guy in Brooklyn named Edwin Raymond.
+
+EDWIN RAYMOND: After the academy, I would run into officers that I was in the academy with. And it’d be like, “Oh, hey, what's up? Are you still at transit?” And the third question, without fail, the third question was always, “What do they want from you guys over there?” That’s how much this is part of the culture. 
+
+
+
+
+PJ: Week to week, the summonses Edwin was being told to write could change. One week, they might want turnstile jumpers, another week they'd want open containers. And they'd tell him, the reason we're having you do this is because when you summons people, it's an opportunity to check if they have a warrant. And if they do, you can arrest them, because it means they’ve committed a serious crime. It made sense to him.  
+
+
+EDWIN: You see, at first I felt good because when someone would have a warrant it felt good. It was like, okay he had a warrant. Until one day, it was just, this- the–girl looked like she was 10. And she wasn’t my arrest. I arrested someone else with something but she was in the cells. And I said, “Young girl, like, what are you doing here?”
+
+
+
+She’s like, “Oh, like, um, me and my friends, we went through the turnstile together.” I said, “Where’s your friend?” “Oh, my friend, she got a summons and they arrested me.” I said, “For what–how old are you?” “16.” I said, “But for what? Just going through the turnstile with your friends?” Like, “Yeah.” 
+
+
+To Edwin, it didn’t make sense that this girl was in jail just for sneaking through a subway turnstile. He asked her, are you sure you’re not leaving something out? 
+
+
+
+
+EDWIN: “Did you give the officer a hard time?” “No.” So, that's when I said, you know, aft–I saw who her arresting officer was. I said, "Yo, what'd, what'd you get her for?" "Oh she, um, she had a warrant." I said, "A warrant?" I said, "For what?" He's like, "I don't know. Like, I don't care. She has a warrant, I got my collar. You know, I'm meeting my quota." 
+
+So Edwin goes back to the girl still just trying to figure out what happened.  
+
+EDWIN: So I said, um, “Did you ever receive a summons?” She was like, “What's that? I said a ticket?” She was like, “Yeah.” “When?” “On my birthday.” On her 16th birthday. It was a few months after. I said, “What happened?” She was like, “I went to the movies with my friend. We walked out of the movie, and the officer said, ‘Didn't I tell you guys get away from the corner?’ And just gave all of his tickets.” And as a 16-year-old, the last thing she's thinking about is going to court to handle the ticket. 
+
+So what had happened was she ignored the summons, and the summons had turned into a bench warrant. And once you get a bench warrant, if a cop stopped you, they put you in jail. Which made Edwin feel like, wait a minute, like, the whole point of these stops is we’re supposed to find bad guys with warrants, not just people who ignored their summonses. Like, what is going on here?   
+
+EDWIN: That's when I started saying, I got to look into these warrants. So now when I was stopping folks, running their names and doing a little bit of research into the warrants, I said, “What the fuck is this?” It was summonses from my colleagues outside of the transit system who were just trying to meet their own quotas. So it just–it was like self-perpetuating. 
+
+PJ: Edwin and Pedro didn’t know each other. But they were having the same problem, and they were asking their bosses the same question -- what is going on here? Why can’t we just do just normal, honest policing? And the answer was always the same -- the reason all this is happening is because of CompStat. This computer program that the NYPD uses to measure every single cop and tell them in excruciating detail how to do their job.  
+
+Their bosses didn’t like CompStat. They’d tell them, “I know it’s not fair, but I have to do what CompStat says. Because if I don’t, they’ll just punish me. So do what you’re supposed to do and let me try to protect us.” 
+
+The thing they couldn't figure out was why the system existed in the first place. And if all their bosses hated it, who liked it? Who wanted things to be the way that they were?  
+
+So a year ago, I started trying to answer this question. And it turns out that compstat really just comes from the brain of this one person—a person who was not at all the person I was imagining. He was this idealistic, grouchy, smart weirdo, with a very complicated brain. His name was Jack Maple. And the machine that he first designed 25 years ago was so different from the machine that Pedro and Edwin would encounter. Jack’s machine, was supposed to do nothing less than save the city of New York. And before things got bad, it did. 
+
+JACK MAPLE: How is that sounding? 
+
+CHRIS MITCHELL: Um…
+
+JACK: Do you want to go down some of these things and I just talk? 
+
+CHRIS: Um.
+
+JACK: Chris--
+
+CHRIS: Yes. 
+
+JACK: --this is your area. 
+
+CHRIS: Yup.
+
+JACK: You know what I mean? I'm the guy that puts the fucking pins on the maps.
+
+PJ: A few years before he died, he sat down with this journalist named Chris Mitchell, who he wanted to tell his life story to. 
+
+JACK: You really think I'm crazy, don't you.
+
+CHRIS: (laughs)
+
+JACK: You do. You want me to–
+
+CHRIS: You're a little surprised about what?
+
+JACK: I don't know what I want Chris you're the writer. I'm just someone that has nothing to do and I write notes of madness. 
+
+PJ: There’s over 20 hours of these tapes. And since I found them last year, I’ve listened to them over and over again. 
+
+ [JACK TAPE IN THE BACKGROUND]
+
+PJ: And I’ve also talked to a lot of the people who were closest to Jack. Trying to understand what it was he thought he was building. 
+
+[MUSIC POST OUT]
+
+BILL COURTNEY: So I have the real story, how it started. So I’ll tell you the real story.
+
+PJ: OK, yeah.
+
+PHIA: I want this closer for the real story. [Mic noise]
+
+PJ: This is Bill Courtney, he’s a retired cop.  
+
+
+BILL: All right, so I, uh, I became a transit cop in 1983. You, you just can't understand how bad it was back then. I don't know like when you were born, but– 
+
+PJ: ’85.
+
+BILL: Okay. When you were five years old, New York City was a horror show.
+
+NEWSCLIP: This is WYNN. And the murder rate just keeps on rising. 
+
+BILL: It was just one horrific event after the next. 
+
+NEWSCLIP: That's an average of five or six homicides a day.
+
+BILL: As a police officer with a gun, I felt like I was a victim, just living in this city. Get up in the morning, and, as you got close to getting to work, your heart would start pumping. You'd start thinking like, what, what's going to happen tonight? [siren noise] There was a lawlessness out on the streets. Things just unfold in front of you as you turn a corner and walked right into a robbery or walked into a guy holding somebody at gunpoint or a stabbing. And it was right there. 
+
+COP RADIO: Report of a male shot in the head.
+
+BILL: It was just, like, mayhem.
+
+COP RADIO: We’ve got a homicide in Brooklyn [siren noise]…
+
+BILL: Non-stop. People screaming and yelling. Someone coming running around the corner and, you know, a woman holding the strap of her purse, which is now gone and a bruise on her eye. Just non-stop craziness. People see you, stop in their tracks, take off running. You take off running after them, and you don't even know why. And you come home and you lock yourself in your apartment and you pray that nothing bad happens to you or your kids. It really was a horrible place to live.
+
+PJ: All day, every day, Bill showed up to work and just felt the overwhelming feeling that for all the work he did, none of it was really going to make a difference. 
+
+BILL: We would arrest people for not paying their fares. We’d give out numerous summonses for everything from urinating to disorderly conduct. It meant nothing. And nobody knew what to do to make it better. 
+
+[MUSIC — FLUTE IN]
+
+PJ: The only person with any optimism about the situation was Jack Maple. 
+
+Jack was a sergeant in charge of Billy’s squad. And Jack was convinced that everything wrong with New York City could be fixed if only they would put Jack Maple in charge of it. Jack’s bosses had a different belief—they believed that Jack was delusional. The guy walked around like he thought he was a character from a 1930s detective movie. 
+
+BILL: People were uh–didn't like the way he dressed, didn't like the way he stood up to them–
+
+PJ: How did he dress? 
+
+BILL: So Jack wore like spats, a bowler hat, a sport coat with baggy pants and shades, and he looked like Edward G. Robinson meets Truman Capote or something, I don’t know. 
+
+PJ: (laughs)
+
+PJ: In the New York City Police Department in the 1980s, Jack was like the equivalent of that kid who just wears a suit to school everyday for no reason. And what made this even more ridiculous was that Jack was a transit cop. Transit was its own, like, dinky department. Basically they were seen as like glorified mall cops. But Jack acted like being a transit cop was the most glamorous job in the world. 
+
+After work, he would go to all these extremely high-end, fancy bars. Places where celebrities went, like the Oak Room at the Plaza Hotel. 
+
+BILL: You know, here's Jack with his homburg and his spats, going out after work, amongst these rich people that Jack used to call faffingtons, you know. And everybody would always ask, “Who is that guy?” He'd go to the bathroom, and they’d say, “Hey, who is that guy?” They thought he was an actor, a producer, whatever. And then, if people would come up to him and say, “Who are you?” He would always, he, his response quite often was, “My name is Waldo Wedemeyer, (PJ laughs) and I get shot out of the cannon at Ringling Brothers Circus.” (PJ laughs) How he gravitated towards police work, I really don't know but um, he really wanted to be famous. He really wanted to, to make his mark on the world.
+
+[MUSIC]
+
+PJ: Meanwhile, at work, Jack was always on the verge of getting fired. The thing was, he kept ignoring the fundamental rule of being a transit cop, which was just stay in the subways. In his mind, he was like, I'm a crime-fighter. Wherever there is crime, I must go. And so he was constantly leaving the subway. In the tapes I have of Jack, he tells Chris his favorite place to go when he would leave. Times Square.  
+
+[MUSIC]
+
+[Times Square people hawking stuff]
+
+JACK: 42nd Street at that time, the hookers are four deep. You know, there were still the pimps with those Eldorado Cadillacs, like with the hearts for windows. 
+
+CHRIS: Uh huh.
+
+JACK: 40th street is real dark around there. At 8th avenue there’s a bar over there, on 41st and 8th called The Terminal Bar. Appropriately named. 
+
+CHRIS: Uh huh.
+
+PJ: So even though Jack wasn't supposed to leave the subway, he’d found this loophole that was letting him do it, which was that there was one hour a day—his lunch break—where technically he could go wherever he wanted.
+
+JACK: I’m playing by the rules, but the great thing about, for that hour a day, you know, I was policeman to the world.
+
+CHRIS: Mhm.
+
+PJ: Jack said that he was getting an education in Times Square. He said he was getting a master's degree in crookology. He was starting to believe that he could read crime the way, like, a weatherman can read a weather pattern. I talked to this guy Jimmy Nuciforo who worked for Jack. He told me a story about Jack doing this. 
+
+JIMMY: He would say, “Tomorrow, Jimmy, we’re working, you and me.” I'm like, “Jack, it's Thanksgiving.” He says, “Yeah.” He says, “Plenty of pickpockets out there.” He says, “We’re workin’!” So and what we would do is, on 30th—and he taught me this—on 34th Street in Manhattan. He said, “It's the easternmost exit in Macy's on 34th Street, there's a stairway that goes down into the subway. And so, during the holidays everybody's coming out of Macy's and going down into that Subway.” And he said, “It creates a bottleneck. So all these people get stuck at the top of the stairs,” so he said that is the perfect situation for pickpockets. And he was absolutely right. So we would play that 50-foot area there, and every day we would lock up pickpockets there. You know, and they were like all over these people. Um, you know, like bees on honey. 
+
+
+
+
+
+PJ: Stuff like this was why Jimmy and Billy thought that Jack was a genius. But from their boss’ perspective it was like, it's not your job to arrest people outside of the subways. Don't arrest people in California. Don't arrest people in New Jersey. Don't arrest people in Times Square. You are a transit cop.
+
+
+
+
+BRIDGID O’CONNOR: So they transferred him to the Bronx. So, he was living in Howard Beach and to take the train all the way to the Bronx, that’s like a punishment. You know, it could take you two hours to get to work on the train.
+
+PJ: This is is Bridgid O’Connor. She was a transit cop, later on, she and Jack actually got married. She said that when the department decided to punish Jack in this way, they made a crucial mistake, which is that they forgot that to get from Howard Beach to the Bronx you had to transfer through Times Square. 
+
+BRIDGID: So when he got off at Times Square, he always made an arrest (laughs).
+
+PJ: (laughs) And then once you make the arrest, then what happens?
+
+BRIDGID: Then you have to process it, and then you're down in central booking for 12 hours. You know, it was like, that’s a whole day. Once you make the arrest, you're done for the day. And he never made it to the Bronx. He never made it, ever. He was assigned to the Bronx, and he made an arrest every day. 
+
+PJ: Over and over again, Jack would get transferred to some punishment post, some desolate street corner in the middle of nowhere, where they’d tell him, “Just stand there and don’t do anything.” And over and over again he would ignore them, and make an arrest. And eventually, they’d give up. They’d just chuck him back to transit. Transit was its own punishment. The Siberia under Siberia, Jack called it once. He spent over a decade down there, stuck in the tunnels. 
+
+For the people who believed in him, the tragedy of Jack Maple was that he was somebody who could have done something. He'd been this like bright young cop. He was the youngest detective in transit. And then it was just like, he couldn’t help himself, he had to pick fights with the bosses. He had to spend every single night going to these fancy bars—he took out nearly $30,000 in loans against his house just so he could keep going to the Oak Room. It didn’t make sense.  
+
+I talked to this guy Mike Daly. Mike was Jack’s best friend. He's a reporter. And he told me the reason for all this was this thing that happened to Jack this one night when Jack was 22. The night he almost died. 
+
+MIKE DALY: He was at 42nd Street and Bryant Park in a canary yellow jumpsuit with Elton John sunglasses, buying drugs and locking up drug dealers. And he ended up wrestling for his own gun with this guy.
+
+PJ: The guy got a hold of the gun and shot twice twice at Jack's head at close range. He barely missed. They ended up wrestling for it. It went off. And the guy got shot. Both of them survived. And Jack made the arrest. 
+
+MIKE: And at the end of the night, he’s walking across Central Park South, covered with this guy's blood, with a muzzle flash burn on each cheek and he walks past the window to the Oak Bar. And he looks inside and there's all these (laughs) well-to-do wealthy people on the other side of the glass, drinking and laughing and it looked like a world where nothing bad could ever happen. 
+
+PJ: Jack knew if he had died that night, he would’ve just been a dead transit cop. And for the rest of his life, that left him with a lot of sympathy for other people who ended up on their backs, dying unimportant deaths. 
+
+MIKE: And he also saw what the city can offer you and what the city should be, and how great the city should be. And why shouldn't it be great for other people too? And why shouldn’t other people live like they were on another side of a glass where nothing bad happened to them?
+
+PJ: In 1988, after a decade in purgatory, Jack caught a tiny break. He got put in charge of this small squad that would investigate repeat offender robberies. The people who were committing tons of robberies in the subway. And Jack decided his first target as head of the squad would be this incredibly tricky problem that nobody had been able to solve, this thing that cops called “wolfpack robberies.”
+
+[MUSIC]
+
+So here’s what was happening. People who rode the subways were getting attacked. They were getting attacked by big groups of people, a minimum of five, but sometimes as much as like 20 or 30, who would just mob their victims on the subway. They’d run in and with either just their fists, or sometimes with knives or box cutters, they would just pummel the person, to just take everything they had. 
+
+
+NEWS CLIP: Some citizens are carrying weapons to protect themselves just in case there’s trouble. 
+
+NEWS CLIP: It’s a terrible situation, I--I--
+
+
+
+
+PJ: Things were so bad that the public school chancellor had asked if the police could have special armed subway cars to escort kids to school. The 4,0000 members of the transit police had been unable to stop this. Jack was going to try to do fix it with 24 cops. 
+
+Everybody said these attacks were random, but to Jack they didn't look random, because he saw these patterns in who got attacked. Like for instance, Asian people were getting attacked way more than anybody else. He did a victimology study, he found that they were four times more likely to get attacked. 
+
+BILL: So Jack came up with the idea of starting a decoy unit. And so we all dressed like, you know, average everyday people that either get mugged or people that are on the train.
+
+PJ: The NYPD had actually done decoy units before. But Jack did not like the way they did them. They were borderline entrapment. They’d had, like, an undercover cop on the train with a 20 dollar bill hanging out of their pocket. Then they’d arrest the poor guy who tried to take it. 
+
+But Jack's goal was that he wanted to target the repeat, violent offenders—the people who were intentionally targeting the victims who showed up in Jack's studies. So he said, our decoys should just be like an Asian cop who pretends to be asleep with a nice watching on. We're going to actually have cops dress up as every kind of victim that we see show up. So one day he looks at Billy.
+
+BILLY: He said, you’re — you know what—he goes, “You, you’ve got this boyish look to you.”
+
+PJ: He says, “Billy, we’re gonna put you in a dress.”  
+
+BILLY: So I was like, well that’s not gonna happen. 
+
+PJ: Billy was this straight, macho cop, He did not want to do this. But that was Jack’s point. He told him, they’re never going to think you’re a cop. They’ll figure there’s no way you’d agree to do it.
+
+BILLY: And we’ll make my partner–one of my partners, Wayne Richardson, he’ll be like a nerd with coke bottle glasses. And you’ll, you’ll walk together or sit together and everyone’s going to just rob you like, like it’s, you know, going out of style. So I come in Friday night and they have a wig, a bra, and some other things waiting for me.
+
+PJ: So they stick Billy in middle of the subway car, and then around him there are a bunch of undercover cops who are dressed to look like random subway passengers. Jack would wear this really ugly Playboy Bunny sweater. Jimmy would dress up like, kind of like his idea of what like a punk rocker looked like. 
+
+JIMMY: And then, you know, we would have to get more creative on that train to make people believe that we weren’t cops. So we would do things like, the backups, we would roll joints right on the train out of, um, Lipton tea. We would use Lipton tea and roll joints. Uh, we would smoke those joints in the last car of the train, where you’re not supposed to smoke, um, but just to make ourselves more believable. We would sell those joints, you know, on the train, back and forth to each other (PJ laughs), that type of thing, just to make people believe that these guys ain’t no freakin’ cops. 
+
+PJ: Was there anything else that you would do just to like seem more credible? 
+
+JIMMY: Yeah. We used to have a Boombox, we would blast music in there, and, uh–
+
+[MUSIC]
+
+JIMMY: --it wasn't Frank Sinatra. And some of the-- the, uh--the backups would start dancing in that rear car and other guys. Perps would get up and they'd start dancing. And it's like a party and that's what it was known as, the party car.
+
+PJ: So, the subway doors would open, a group of perpetrators would walk on, looking for somebody to rob, and they’d see Billy, just looking like an easy victim. Somebody would pull out a knife to cut the necklace off his throat. It really never took much time.
+
+BILLY: We were instantly robbed. Everywhere we went, you know, in, in a matter of minutes, we had–I think we had been robbed like six times in, you know, like an hour or something like that. 
+
+PJ: But before they could get away, this crew of undercover cops jumped on them and arrested them all. It worked. Over and over again it worked. Not just because they were able to lock up a bunch of criminals, but because the tactic itself was so flashy and attention-grabbing, that it actually sort of advertised to people who would have committed these crimes that it wasn’t safe. Somebody who looked like a victim could actually just be another undercover cop. 
+
+Wolfpack robberies plummeted from 1,200 a year down to 12. And it was in the department, it was like for the first time, some of Jack’s bosses seemed to think that maybe, he might be as smart as he seemed to think he was. 
+
+So, credibility in hand, Jack unveils his actual big idea. The thing that will transform not only New York City, but the entire world. [MUSIC FADES UP] When he tells Billy what he wants him to do, it just sounds like an arts and craft project. 
+
+BILLY: Jack told me, “Listen,” he goes, “I want you to cover this entire office with a piece of paper. I don’t know what you gotta do, but I want every single subway station represented in this office.”
+
+PJ: The New York City subway had 430 subway stations. Jack was telling Billy, “Go draw them all for me.” It was a huge pain in the ass. 
+
+BILLY: So I was like, OK, OK. So I kept blowing Jack off. And I just thought it was an ominous task to actually have to get up on a chair and, and tape pieces of paper to a wall, representing every single subway station. 
+
+PJ: But he does it. And when he’s done, it actually looks crazy. It’s like, they have this tiny office, and the walls are covered. It’s 55 feet of paper. And now Jack shows up, just holding the crime stats for the subway. Like, a huge print out that has every single recent robbery. 
+
+BILLY: Pages and pages of information, you know, on this dot matrix ancient printer from, you know, it seems like 1,000 years ago. And when you look it, it just looks like garbage. 
+
+PJ: So Jack tells Bill, “What we’re going to do today is we’re going to create the Charts of the Future. Here’s what I want you to do. Take this like endless spreadsheet of all these different crimes, and start putting them on the map. So like here’s the first one, uh, 4 a.m., somebody got mugged with a knife at Times Square. That’ll be like a pink dot, put a pink dot at Times Square.” There was another mugging at Chambers Street, put a pink dot at Chambers Street.
+
+JIMMY: And initially we would use markers or pens and color it in. And then we just started using, um, these different color sticky dots. And we’d put the dot on for the time of day that it happened and then we’d write the code right in the middle of the dot, which made it even easier.
+
+PJ: They’d seen crime maps before, and every map they’d ever seen had shown them exactly what they already knew. Once a month, you stick a bunch of pins on a map of the neighborhood, and you see that there’s tons of crime. And it’s completely overwhelming. 
+
+But when they all stepped back and looked at what they’d made, when they looked at the Charts of the Future, they saw this map was different. This map, it showed you the subways the way Jack’s brain saw the subways. It was updated every single day with every single crime represented by time. So, a bunch of blue dots at Times Square, those were all pickpockets. And in the afternoon, they’d be orange. Orange dots that were now down at West 4th Street, because they’d moved downtown.
+
+JIMMY: The color coding was huge. Because that really just spelled it out for you. It’s just staring at you there, telling ya: Look! There's a problem over here. And it could either be one specific location or it could be one train line, ya know, the whole line and you see it going down. And they’re hitting here one night, they’re hittin’ here, they’re hittin’ here. 
+
+PJ: One of the things they’d been wondering about was this huge uptick in purse snatchings—100 more purse snatchings than they’d had that month the year before year. And these purse snatchings were happening in a way more dangerous way. People were hiding between the trains and grabbing women's purses as the train sped through the platform. They were worried somebody was going to get killed. 
+
+And when they looked at the charts, they realized, oh, wait a minute, all these new purse snatchings are actually happening on one train line. Not only that, they just happen across a few train stations and always in the afternoon. So Jack puts all his cops on that one train and they're able to identify a suspect.
+
+JACK: I go to his apartment, so I knock down the door, and this motherfucker, I mean I gotta hand it to him. He jumps from the fire escape—he’s living on the fifth floor—not the next floor down, he jumps the next apartment over and down one floor. You understand the jump I’m talking about now? So now, it’s embarrassing, this motherfucker gets away, right?
+
+PJ: So the guy gets away. But not long after that, Jack's able to catch him. And in the weeks after that, they see that this whole, enormous purse-snatching crime wave, it goes away. It was all just the one guy, which for Jack, confirmed this theory that he'd had, which was that crime was like any other industry–a small percentage of people did most of the work. And with the charts, he felt like he could identify the criminal overachievers, arrest them and make the city much safer.
+
+NEWS CLIP 1: An unprecedented drop in subway crime. Thousands of crimes prevented. Robberies cut three times faster than the citywide robbery rate. 
+
+PJ: Felony crime in the subway dropped 30 percent in two years. 
+
+NEWS CLIP 2: Go down into the subway! Subway riders in New York actually letting passengers off, being obedient...
+
+PJ: New York City was as dangerous as it had ever been, but the subways were this, like, oasis of relative calm.
+
+[MUSIC]
+
+PJ: So in 1993, this new police commissioner takes over the department, Bill Bratton. And he says two things that are extremely shocking. One, he's going to cut crime in the city in half. And two, his second-in-command, the guy who's going to pull this off, is Jack Maple. 
+
+After the break, Jack Maple versus the New York City Police Department.
+
+[MUSIC]
+
+PJ: Welcome back to the show. So in late 1993, the announcement goes out that Jack Maple is going to be second-in-command of the New York City Police Department. And everyone agrees that this idea is terrible. 
+
+MIKE: The city police, they go, “There’s this transit cop comes in and he’s more or less running this—and transforming—the NYPD? What, are you kidding me? This fat freakin’ transit cop in a bowtie?”
+
+PJ: This is Mike Daly again. People didn't just hate Jack because he was a transit cop in a bowtie. They also hated him because he was marching around the police department telling everybody they didn't know how to do their jobs.  
+
+MUSIC
+
+JACK: I walk around and I see those signs up, “Welcome to the NYPD, the greatest 
+detectives in the world.” I said, “And you guys have been running the perfect record now for 149 years. And I know you don’t want to break that record. But I think it’s time.” I said, “You’d think we’d want to start to address crime in this fucking organization.” 
+
+PJ: In his 10 years as a nobody transit cop, the thing Jack had learned more than anything was that the police department only really tried to solve one kind of crime. Press cases. Basically, stuff that happened to rich people, white people or rich white people. And you could even see this in some of the department's actual policies. Like, in Manhattan they would not investigate a burglary that was under $10,000. 
+
+JACK: So that means that you could have your life savings stolen from you and nobody was going to investigate it. But if you were Donald Trump and you had a painting taken, we would have 30 fucking cops there. And that's outrageous. We're saying if you're poor, we're not going to investigate anything.
+
+PJ: Crime victims who were poor, crime victims who were people of color, the crime that happened to them, in a million different ways, it was just invisible to the police department. Mike says, right in the beginning, he remembers Jack actually trying to show him how bad it was. 
+
+MIKE DALY: And I was with him his first night, he was driving around, and he, he called operations, says, “You know anything going on?” They said, “No all’s quiet commissioner.” He goes, “How about any homicides? You got any homicides?”
+“Well, well we got two in Brooklyn.” “Oh, yeah?” “Yeah.” “How about the Bronx?” “Yeah. We got two there too.” “Oh yeah, what about Queens?” “One.” He said, “What about Manhattan?” “Well, we got one there too, but it's above 125th Street.” He goes, “All’s quiet though.” “Yeah all’s quiet, commissioner.”
+
+PJ: Jack’s like, this is how it happens. The police department just doesn’t tell you about the crime that they don’t think is important. Which is a lot of the crime. And he starts to panic as he realizes that his boss, Bill Bratton, does not understand that that’s what’s going on. 
+
+JACK: So we're in there about a week, and Bratton says to me, uh, “Ya know, things are pretty quiet around here.”
+
+I said, “Quiet? We’ve had fuckin’, you know, 30 murders so far. Quiet?” I said, “They don't tell you stuff. Police departments do that with commissioners.” 
+
+PJ: Because police departments hate to change and most police commissioners only last for two years on the job, and so all they're gonna do is keep the bad news away from them. And what Jack wants is to force these people to take every single crime seriously. And so he calls operations back and he says, "From now on, I want a lot more information from you."  
+
+JACK: I wanna know every murder, um, I said, and I want to know every time we fire a gun, and we hit somebody. They said, “You know how many times that is?” I said, “Yeah.”
+
+PJ: He says, there were 1,946 murders last year. We were in 442 shootouts, we shot 87 people and 25 of them died. Everytime this happens, I want you to page me.  
+
+JACK: So they were cute. If a murder happened at 10:00 at night, they would wake me up here at 3 o’clock in the morning and tell me we had a murder. I liked that. You got to admire that.
+
+BRIGID: When he first became the deputy police commissioner, he became very involved. They never–like usually these people went home at night, 9 to 5 they went home. Jack was always on call. He would just show up on the scene of things. 
+
+PJ: Like, you guys have like had dinner, you're going to bed and he's like, “Oh, I'm going to go out”?
+
+BRIGID: Oh, he used to do it all the time. He’d get up, and he’d be like, “Oh there’s a homicide. It’s right–it’s only downtown, I’ll be back.” And he would just get up and go. 
+
+[MUSIC]
+
+PJ: So late one night, Jack's left the house. And instead of going to a crime scene, he's gone to his favorite bar, Elaine's. 
+
+JACK: And I’m thinking about what we’re gonna accomplish. And you know when you have just enough to drink, you can concentrate on one thing, right?
+
+PJ: And he sees this thing happen. This thing he's actually seen a million times before. Elaine always has her eye on the cash register. She always knows at any given minute, are they making as much money as they should be that night, and if not, she's always answering the question “why not?” Are the waiters moving too slowly? Do they need help? Do they need to get yelled at? Like, is there some table that's taking forever in the back. Like, is there a hold up in the kitchen? She's floating around the restaurant, pushing everybody to get done what needs to get done. 
+
+And he realizes, that is what I want to have at the police department. I want all the data in my head, and I want to be able to hold people accountable like we're just a tiny family restaurant. And so he grabs a bar napkin and he scratches out a plan for exactly how he's going to do this. Next day, he comes into work holding the napkin telling everybody, "I've got it.” This new system, his big plan to change the police department. A system that would come to be called CompStat. 
+
+Step one: every single precinct is going to track every crime that happens on a daily basis. Murders, robberies, rapes. They have to count everything. And they're going to keep this data on their own personal Charts of the Future, which they will share with Jack. 
+
+JACK: And of course they said it couldn’t be done. And do you know how much manpower we’re using? It wasn’t easy going the first couple of months.
+
+PJ: The old guard hated all this. One guy actually went over Jack’s head, complained to Bill Bratton.   
+JACK: And I grabbed him on the side and I said, “Hey, fucko.” I said, “If you have a problem with me, you tell me. You understand? Don’t get in my way.” I said, “Bob, when you and Lee Brown were here, this was the murder capital of the fucking world, you understand? I’m not going to let that happen here now.” So I went on collecting the data, and we started to get it. 
+
+PJ: The thing was, the data was actually the easy part. The scary part of this whole plan was the meetings. Jack told all these big shot chiefs, every single week you are going to come to me. You’re going to come downtown to 1 Police Plaza in the morning. They told him they couldn’t make it for 9, he said that was fine, they could show up at 7. These meetings would take place in this enormous room, where one by one, the chiefs would have to walk in front of a giant screen that had all of their crime data displayed on it. In front of the podium they’d have to stand at was this large U-shaped table where every important person they were scared of would sit. And in the center of it, was Jack. 
+
+Jack was the inquisitor. His job was to ask them questions about crime in their neighborhood and ask them what they were doing about it. These conversations went very badly. For instance, early on, Jack noticed that robberies were up in the 5th precinct. So he brought the borough  commander in.
+
+JACK: I said, “What’s going on in the fifth precinct?” The borough commander looked at me and said, “A lot more heroin up there.” I said, “No kidding! Really? Where is it? Where’s it coming in? Who’s dealing it? How do you know they’re the heroin addicts that are doing these robberies? Have they been debriefed?” And he was like, “Uh.”
+
+PJ: One guy used to go to these meetings, he said it was like watching a bunch of kings get turned into peons. These guys had never been asked a follow-up question before.
+
+JACK: Of course, the detectives would say, “We have an active investigation.” “What does that mean? Tell me exactly what it means. You got up in the morning. You went to work. What did we do to catch this guy?” They were never asked that before by a high level person. And you found out how much a number of those squad commanders didn’t know. 
+
+PJ: Police chiefs, like 50-year-old men, would vomit in the bathroom before CompStat meetings. They would try to find friends in the department who could tip them off to see if they were up next. These were guys who lived in neighborhoods where they ran little armies of 300 men who had to obey every single one of their orders, who could never question them about anything. And now, they had to go to this other room, where they stood in front of a guy in a bowtie, surrounded by everybody they'd ever wanted to impress, 200 of their scariest peers, and they just got their lives nitpicked apart. They got asked the kind of follow-up questions you ask somebody on their first day of the job when you're convinced they know nothing. And if they couldn't answer those questions right, they were humiliated. And then they were fired. One chief told a reporter, "If they're going to keep having these meetings, they should really have us check our guns at the door." 
+
+People were terrified of Jack. He told this story about berating this cop from narcotics because he found out the guy had been ignoring complaints he was getting from people who were upset about crack deals that were happening outside of their houses.  
+
+JACK: You know, these fucking people are afraid here. We gotta do something about this. And he said to me, “You know, what do you want to make these low level cases for? We want to make the big cases.” I said, “Where do you live? Where do you live? In Clarkstown or one of these places?” I said, “What did you pay? What was your house? 300,000, 350? Got a nice little police department there?
+
+PJ: Clarkstown was a rich white suburb. Jack was saying, what if tomorrow morning, somebody was selling drugs outside your house in Clarkstown. 
+
+JACK: You think you'd be on the phone to the Clarkstown fuckin’ cops? And would you want them arrested? And if they said to you, “Gee, don’t you understand? They’re just low-level guys. We’re waiting for the big case. And we’re going to be done with the big case in a year. You think that would be all right if your children were stepping over crack vials on their way to school?” And he said to me, I mean he was great, he said to me, “You know, you’re right.” 
+
+
+
+
+PJ: As much as it made everybody hate Jack, CompStat worked.  The crime rate in New York City plunged.
+
+[MUSIC]
+
+NEWS ANCHOR 1: The city is leading the country in reducing crime.
+
+PJ: By the end of 1994, murders were down almost 20 percent.
+
+NEWS ANCHOR 2: It really is like the siege has lifted...
+
+PJ: And they kept learning from the patterns they found in CompStat. The shooting rate is highest at 8 o’clock, right when a lot of cops are switching shifts? Fix that. Sixty percent of grand larcenies are in just 3 precincts? Find out why.
+
+NEWSCLIP: Heading out on their first patrol of the new year, the officers of Manhattan's Midtown South Precinct hit the streets with a new sense of pride and a new reputation to uphold. As keepers of the safest big city in the nation.
+
+PJ: By the end of ’95 felony crime was down 39 percent. The murder rate had plunged down back to where it was in the early ’70s. The biggest drops in homicides came in the neighborhoods that the cops were used to ignoring. One reporter wrote, “You could fill Madison Square Garden with all the would've been dead people who are alive simply because Maple figured it out”  
+
+NEWSCLIP: Computers now track every crime committed in the city every day, allowing cops to react instantly to changing crime…
+
+NEWS ANCHOR: Crime is really down. 
+
+POLICE OFFICER: Yes.
+
+NEWS ANCHOR: This is not some kind of fudging of numbers.
+
+POLICE OFFICER: No.
+
+NEWS ANCHOR: This is not a seasonal thing.
+
+POLICE OFFICER: It’s not only statistically recognizable, you can feel it in the sense of the city. The sense of menace has ebbed.
+
+PJ: When Commissioner Bratton left New York City in ’96, Jack followed him out the door.   
+
+People thought they were geniuses. There were academics who argued that it wasn’t CompStat that saved New York, that the crime rate went down for other reasons. Jack would tell ’em, “Come to my office with a big stack of cash, all your grant money. I’d love to take a bet on that. 
+
+For the next few years, Bill and Jack went everywhere, across America, across the world, spreading CompStat to police departments. People thought of them as revolutionaries. 
+
+Jack died in 2001.
+
+Already by then, some of the problems with the system had started to crop up, but most people hadn’t noticed. A few years later, it would be clear -- the flaw in the great crime fighting machine.
+
+Next time on Reply All: what went wrong. 
+
+CREDITS 
+
+Reply All is hosted by me, PJ Vogt, and Alex Goldman. The show is produced by Sruthi Pinnamaneni, Phia Bennin, Damiano Marchetti, Anna Foley, Simone Polanen, Jessica Yung and Kaitlin Roberts. Our editor is Tim Howard. Our intern is Heather Schröering. More editing help this week from Alex Blumberg. We were mixed by Rick Kwan and Kate Bilinski. Fact-checking by Michelle Harris. 
+
+Special thanks this week to Chris Mitchell, Saki Knafo and Khrista Rypl.  
+
+Our theme song is by the mysterious Breakmaster Cylinder. Original music in this week’s episode by Tim Howard and Breakmaster Cylinder. And thanks to our additional musicians Anja Krieger on flute and Michael Brownell on upright bass. Recording help from Mark Lewis.
+
+Matt Lieber is 10 hours of sleep. 
+
+You can find more episodes of the show on iTunes, Spotify, or wherever you get your podcasts. Thanks for listening. You can hear our next episode right now.

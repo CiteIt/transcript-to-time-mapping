@@ -1,0 +1,174 @@
+{'meta': {'audio_story_uri': '',
+          'title': '',
+          'transcript_json_times_uri': '',
+          'transcript_json_uri': '',
+          'video_channel_name': '',
+          'video_channel_uri': '',
+          'video_uri': '',
+          'web_series_uri': '',
+          'web_story_uri': '',
+          'web_transcript_uri': ''},
+ 'word_times': [{'endTime': '00:00:04.319',
+                 'startTime': '00:00:00.030',
+                 'word': 'Hello, this is Tim Langeman, creator of CiteIt.net '
+                         '-- setting a higher standard of'},
+                {'endTime': '00:00:09.480',
+                 'startTime': '00:00:04.319',
+                 'word': 'citation, for news organizations and web\n'
+                         'authors.  Often when I read a quotation I'},
+                {'endTime': '00:00:13.290',
+                 'startTime': '00:00:09.480',
+                 'word': 'think to myself..  "that\'s a nice quote but\n'
+                         'I wonder what it says two sentences'},
+                {'endTime': '00:00:17.730',
+                 'startTime': '00:00:13.290',
+                 'word': 'prior or two sentences later." In other\n'
+                         "words, what's the context and how do I"},
+                {'endTime': '00:00:22.439',
+                 'startTime': '00:00:17.730',
+                 'word': "know this quote wasn't cherry-picked?\n"
+                         'In Washington DC, the Jefferson Memorial has'},
+                {'endTime': '00:00:26.990',
+                 'startTime': '00:00:22.439',
+                 'word': 'a badly cherry-pick quote etched into\n'
+                         'the northeastern wall. Here it is --'},
+                {'endTime': '00:00:31.260',
+                 'startTime': '00:00:26.990',
+                 'word': '"Nothing is more certainly written in the\n'
+                         'book of fate than that these people are'},
+                {'endTime': '00:00:36.390',
+                 'startTime': '00:00:31.260',
+                 'word': 'to be free." That sounds great, but it\'s\n'
+                         'just an excerpt. Using CiteIt.net, I'},
+                {'endTime': '00:00:39.870',
+                 'startTime': '00:00:36.390',
+                 'word': 'can link to quote to the full text,\n'
+                         'making it possible to click on the blue'},
+                {'endTime': '00:00:45.180',
+                 'startTime': '00:00:39.870',
+                 'word': "down arrow and reveal the quote's next\n"
+                         '500 characters . "Nor is it less'},
+                {'endTime': '00:00:49.129',
+                 'startTime': '00:00:45.180',
+                 'word': 'certain that the two races, equally free,\n'
+                         'cannot live in the same government.'},
+                {'endTime': '00:00:53.550',
+                 'startTime': '00:00:49.129',
+                 'word': 'Nature, habit, opinion has drawn indelible\n'
+                         'lines of distinction between them.'},
+                {'endTime': '00:00:58.770',
+                 'startTime': '00:00:53.550',
+                 'word': 'It is still in our power to direct the\n'
+                         'process of emancipation and deportation.'},
+                {'endTime': '00:01:03.719',
+                 'startTime': '00:00:58.770',
+                 'word': 'If you look at the text above the quote,\n'
+                         'you can see that Jefferson was arguing'},
+                {'endTime': '00:01:08.430',
+                 'startTime': '00:01:03.719',
+                 'word': 'that African Americans should work for a\n'
+                         'period of time as slaves and then be'},
+                {'endTime': '00:01:15.380',
+                 'startTime': '00:01:08.430',
+                 'word': 'deported at a "proper age." Sometimes\n'
+                         'added context changes everything.'},
+                {'endTime': '00:01:20.670',
+                 'startTime': '00:01:15.380',
+                 'word': 'Given how CiteIt.net exposes cherry-picked '
+                         'quotations,  no news organization or'},
+                {'endTime': '00:01:22.560',
+                 'startTime': '00:01:20.670',
+                 'word': 'author attempting to deceive their readers'},
+                {'endTime': '00:01:27.330',
+                 'startTime': '00:01:22.560',
+                 'word': "would use it.  CiteIt.net isn't about\n"
+                         "exposing anyone. Rather, it's a tool for"},
+                {'endTime': '00:01:31.409',
+                 'startTime': '00:01:27.330',
+                 'word': 'responsible news organizations and\n'
+                         'authors who choose to'},
+                {'endTime': '00:01:34.979',
+                 'startTime': '00:01:31.409',
+                 'word': 'differentiate themselves by holding\n'
+                         'themselves up to a higher standard,'},
+                {'endTime': '00:01:39.060',
+                 'startTime': '00:01:34.979',
+                 'word': 'giving readers confidence in their\n'
+                         'integrity and a greater understanding of'},
+                {'endTime': '00:01:42.930',
+                 'startTime': '00:01:39.060',
+                 'word': "their sources. Let's now look at a\n"
+                         'second example -- this time where the'},
+                {'endTime': '00:01:47.070',
+                 'startTime': '00:01:42.930',
+                 'word': 'author is not trying to cherry-pick but\n'
+                         'rather to provide their readers with an'},
+                {'endTime': '00:01:51.689',
+                 'startTime': '00:01:47.070',
+                 'word': "easy way to learn more about a quote's\n"
+                         "context.  Here's a Bible passage"},
+                {'endTime': '00:01:56.520',
+                 'startTime': '00:01:51.689',
+                 'word': "portraying Jesus's temptation in the\n"
+                         'wilderness from Matthew 4.  The tempter'},
+                {'endTime': '00:01:59.939',
+                 'startTime': '00:01:56.520',
+                 'word': 'came and said to him:  "If you are the son\n'
+                         'of God, command these stones to become'},
+                {'endTime': '00:02:04.710',
+                 'startTime': '00:01:59.939',
+                 'word': 'loaves of bread.  But he answered, "it is\n'
+                         'written, "One does not live by bread'},
+                {'endTime': '00:02:08.000',
+                 'startTime': '00:02:04.710',
+                 'word': 'alone, but by every word that comes from\n'
+                         'the mouth of God."'},
+                {'endTime': '00:02:12.680',
+                 'startTime': '00:02:08.000',
+                 'word': 'To many Christians, this biblical\n'
+                         'passage is familiar, yet few recognize'},
+                {'endTime': '00:02:17.480',
+                 'startTime': '00:02:12.680',
+                 'word': "Jesus's response as a quote from\n"
+                         'Deuteronomy 8. If you click on the blue'},
+                {'endTime': '00:02:21.620',
+                 'startTime': '00:02:17.480',
+                 'word': "arrows, you can see I've cited the verse\n"
+                         'by linking it to a web version of the'},
+                {'endTime': '00:02:26.750',
+                 'startTime': '00:02:21.620',
+                 'word': 'NRSV translation of Deuteronomy at biblegateway.com. '
+                         'Linking this first to an'},
+                {'endTime': '00:02:31.430',
+                 'startTime': '00:02:26.750',
+                 'word': 'Internet source allows me to use the\n'
+                         'CiteIt.net web service to automatically'},
+                {'endTime': '00:02:35.870',
+                 'startTime': '00:02:31.430',
+                 'word': 'pull in the surrounding 500 characters\n'
+                         'before and after the quote. This allows'},
+                {'endTime': '00:02:39.860',
+                 'startTime': '00:02:35.870',
+                 'word': 'readers to quickly see the section of\n'
+                         'Deuteronomy the Jesus was citing'},
+                {'endTime': '00:02:44.450',
+                 'startTime': '00:02:39.860',
+                 'word': 'and easily learn more. In conclusion,\n'
+                         'CiteIt.net aims to set a higher'},
+                {'endTime': '00:02:49.040',
+                 'startTime': '00:02:44.450',
+                 'word': 'standard of citation for news\n'
+                         'organizations and web authors. It allows'},
+                {'endTime': '00:02:54.800',
+                 'startTime': '00:02:49.040',
+                 'word': 'readers to easily verify the context\n'
+                         'and learn more. CiteIt.net dot is free and'},
+                {'endTime': '00:02:59.380',
+                 'startTime': '00:02:54.800',
+                 'word': 'licensed under the open-source MIT\nlicense'},
+                {'endTime': '00:03:03.800',
+                 'startTime': '00:02:59.380',
+                 'word': 'Idea Inspired by Ted Nelson.'},
+                {'endTime': '00:03:06.300',
+                 'startTime': '00:03:03.800',
+                 'word': 'http://ted.hyperland.com'}]}
