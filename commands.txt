@@ -1,22 +1,30 @@
-    subprocess.check_output('ffmpeg -i ' + local_filename + ' ac 1 -ar 16000 ' + label + '.wav') 
 
+# Download mp3 from internet
+wget(https://files.newbooksnetwork.com/history/158historysteinberg.mp3)
+
+# convert mp3 to wav
 ffmpeg -i brene-brown.mp3 ac 1 -ar 16000 brene-brown.wav
 ffmpeg -i brene-brown.mp3 -acodec pcm_s16le -ac 1 -ar 16000 brene-brown.wav
 
+subprocess.check_output('ffmpeg -i ' + local_filename + ' ac 1 -ar 16000 ' + label + '.wav') 
 
 
+
+# submit wav to Google Speech to Text
 gcloud ml speech recognize-long-running \
 'gs://citeit_speech_text/examples/uncivil/the-ring/uncivil-the-ring.wav' \
 --include-word-time-offsets \
 --language-code='en-US' \
 --async
 
+# result: job ID
 764505178761120367
+
+# using job ID: retrieve Google Speech to text results
 gcloud ml speech operations describe 764505178761120367
 
 
-
-
+# Another Example:
 gcloud ml speech recognize-long-running \
 'gs://citeit_speech_text/examples/on-being-with-krista-tippett/2018-02-02-brené-brown/brene-brown.wav' \
 --include-word-time-offsets \
@@ -33,6 +41,7 @@ episode
 audio_url
 
 
+# Python Linux Commands
 sudo apt-get update
 sudo apt-get install python3-pip
 pip3 install --upgrade google-auth
@@ -42,8 +51,8 @@ from google.oauth2 import service_account
 credentials = service_account.Credentials.from_service_account_file('/home/timlangeman/.google-credentials.json')
 from google.auth.transport.requests import AuthorizedSession
 
-
 pip install --upgrade google-cloud-storage
+
 
 
 # Imports the Google Cloud client library
@@ -59,11 +68,11 @@ file_name = '127-the-crime-machine-part-1.mp3'
 destination_blob_name = file_name
 
 
-
+# Google Cloud file upload
 bucket = storage_client.get_bucket(bucket_name)
 blob = bucket.blob(destination_blob_name)
-
 blob.upload_from_filename(source_file_name)
+
 
 def upload_blob(bucket_name, source_file_name, destination_blob_name):
     """Uploads a file to the bucket."""
